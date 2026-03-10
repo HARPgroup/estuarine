@@ -23,7 +23,7 @@ flow_dat$da <- lubridate::day(as.Date(flow_dat$dateTime, tz = "EST"))
 flow_dat$hr <- lubridate::hour(as.POSIXct(flow_dat$dateTime, tz = "EST"))
 flow_hourly <- sqldf("select yr, mo, da, hr, avg(X_00060_00000) as flow from flow_dat group by yr, mo, da, hr")
 
-src_file <- paste0(github_location, "/vahydro/R/modeling/tidal_Fresh/particle2026/app_C_all.csv")
+src_file <- "https://raw.githubusercontent.com/HARPgroup/estuarine/refs/heads/main/data/app_C_all.csv"
 imp_dat <- read.csv(src_file)
 names(imp_dat) <- c(
   "sample_date", "sample_id", "tidal_phase_start", "stratum", "taxon", "scientific_name", 
@@ -34,24 +34,26 @@ imp_dat$mo <- month(as.Date(imp_dat$sample_date, format="%m/%d/%Y", tz = "UTC"))
 imp_dat$da <- lubridate::day(as.Date(imp_dat$sample_date, format="%m/%d/%Y", tz = "UTC"))
 imp_dat$hr <- as.integer(substr(imp_dat$sample_id, 16, 17))
 
-# Join flow data
-imp_dat <- sqldf(
+# Join flow data, also filter out 2 2015 events
+imp_all <- sqldf(
   "select a.*, b.flow from imp_dat as a 
    left outer join flow_hourly as b 
    on (
      a.yr = b.yr and a.mo = b.mo and a.da = b.da and a.hr = b.hr
    )
+   where a.yr > 2015
    order by a.sample_date, a.hr
   "
 )
 
 # isolate species/lifestages
-pys_all <- sqldf("select * from imp_dat where life_stage = 'PYS'")
+pys_all <- sqldf("select * from imp_all where life_stage = 'PYS'")
+pys_all$sample_date <- as.Date(pys_all$sample_date, format="%m/%d/%Y", tz = "UTC")
 pys_tidal_phase <- sqldf(
   "select tidal_phase_start, sum(density_org_numper100m3) as dper100, 
    sum(density_nonimp_numper100m3) as niper100 
    from pys_all
-   group tidal_phase_start
+   group by tidal_phase_start
   "
 )
 pys_flood <- sqldf("select * from pys_all where tidal_phase_start='Flood'")
@@ -85,42 +87,86 @@ alosa_pys_all <- sqldf(
   "select * from pys_all
    where (
      (scientific_name like '%alosa%')
-     OR (scientific_name like '%Clupeidae%')
    )
   "
 )
-alosa_pys_day_pct <- sqldf(
+clup_pys_all <- sqldf(
+  "select * from pys_all
+   where (
+     (scientific_name like '%Clupeidae%')
+   )
   "
-    select a.sample_date, a.yr, a.mo, a.da, a.hr, a.tidal_phase_start, a.flow,
+)
+clup_pys_all$sample_date <- as.Date(clup_pys_all$sample_date, format="%m/%d/%Y", tz = "UTC")
+
+clup_pys_day_pct <- sqldf(
+  "
+    select a.sample_date, a.scientific_name, a.yr, a.mo, a.da, 
+      a.tidal_phase_start, a.flow,
       a.total_orgs, b.daily_total_orgs, 
       (a.total_orgs / b.daily_total_orgs) as pct_of_daily 
-    from alosa_pys_all as a
+    from (
+      select sample_date, scientific_name, yr, mo, da, 
+        tidal_phase_start, avg(flow) as flow, 
+      sum(total_orgs) as total_orgs
+      from clup_pys_all 
+      group by sample_date, tidal_phase_start, scientific_name, yr, mo, da
+      order by yr, mo, da
+    ) as a
     left outer join (
-      select yr, mo, da, cast(sum(total_orgs) as float) as daily_total_orgs
-      from alosa_pys_all 
-      group by yr, mo, da
+      select yr, mo, da, scientific_name, 
+        cast(sum(total_orgs) as float) as daily_total_orgs
+      from clup_pys_all 
+      group by yr, mo, da, scientific_name
     ) as b 
     on (
-      a.yr = b.yr and a.mo = b.mo and a.da = b.da
+      a.yr = b.yr and a.mo = b.mo and a.da = b.da 
+      and a.scientific_name = b.scientific_name
     )
-    order by a.yr, a.mo, a.da, a.hr
+    order by a.yr, a.mo, a.da
   "
 )
-alosa_pys_day_pct$sample_date <- as.Date(alosa_pys_day_pct$sample_date, format="%m/%d/%Y", tz = "UTC")
+clup_pys_day_pct$sample_date <- as.Date(clup_pys_day_pct$sample_date, format="%m/%d/%Y", tz = "UTC")
 
-plot(alosa_pys_day_pct[which(alosa_pys_day_pct$tidal_phase_start == 'Ebb'),]$pct_of_daily )
-points(alosa_pys_day_pct[which(alosa_pys_day_pct$tidal_phase_start == 'Flood'),]$pct_of_daily, col="blue",pch = 15 )
-barplot(
-  alosa_pys_day_pct[which(alosa_pys_day_pct$tidal_phase_start == 'Ebb'),]$pct_of_daily,
-  alosa_pys_day_pct[which(alosa_pys_day_pct$tidal_phase_start == 'Flood'),]$pct_of_daily
+clup_pys_mo_pct <- sqldf(
+  "
+    select a.scientific_name, a.yr, a.mo, 
+      a.tidal_phase_start, a.flow,
+      a.total_orgs, monthly_total_orgs, 
+      (a.total_orgs / monthly_total_orgs) as pct_of_monthly 
+    from (
+      select scientific_name, yr, mo, 
+        tidal_phase_start, avg(flow) as flow, 
+      sum(total_orgs) as total_orgs
+      from clup_pys_all 
+      group by tidal_phase_start, scientific_name, yr, mo
+      order by yr, mo
+    ) as a
+    left outer join (
+      select yr, mo, scientific_name, 
+        cast(sum(total_orgs) as float) as monthly_total_orgs
+      from clup_pys_all 
+      group by yr, mo, scientific_name
+    ) as b 
+    on (
+      a.yr = b.yr and a.mo = b.mo
+      and a.scientific_name = b.scientific_name
+    )
+    order by a.yr, a.mo
+  "
 )
+clup_pys_mo_pct$sample_date <- as.Date(paste(clup_pys_mo_pct$yr,clup_pys_mo_pct$mo, "01", sep="-"), format="%m/%d/%Y", tz = "UTC")
+clup_pys_mo_pct$yrmo <- paste(clup_pys_mo_pct$yr, clup_pys_mo_pct$mo)
 
-ggplot(data = alosa_pys_day_pct, aes(x = sample_date, y = pct_of_daily, fill = tidal_phase_start)) +
+plot(clup_pys_day_pct[which(clup_pys_day_pct$tidal_phase_start == 'Ebb'),]$pct_of_daily )
+points(clup_pys_day_pct[which(clup_pys_day_pct$tidal_phase_start == 'Flood'),]$pct_of_daily, col="blue",pch = 15 )
+
+ggplot(data = clup_pys_mo_pct, aes(x = yrmo, y = pct_of_monthly, fill = tidal_phase_start)) +
   geom_col(position = "stack") +
-  labs(title = "Stacked Bar Chart by Day",
+  labs(title = "Stacked Bar Chart by Month",
        x = "Date",
        y = "Total Value") +
-  scale_x_date(date_breaks = "1 year", date_labels = "%b %d") + # Format the date axis labels
+  #scale_x_date(date_breaks = "1 year", date_labels = "%b %d") + # Format the date axis labels
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) # Rotate labels to prevent overlap
 
 
