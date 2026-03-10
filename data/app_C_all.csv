@@ -1,0 +1,978 @@
+﻿Sample Date,Sample ID,Tidal Phase at Start,Stratum,Taxon,Scientific Name,Life Stage,"Total Number of
+Organisms Caught",Total Density (No./100m3),"Density w/o
+Impingeables
+(No./100m3)"
+7/13/2015,CPS_6_20150713_11,Ebb,Bottom,Herring and Anchovies,Clupeiformes,UIDL,12,11.989,11.989
+7/13/2015,CPS_6_20150713_11,Ebb,Mid-depth,Herring and Anchovies,Clupeiformes,UIDL,32,31.803,31.803
+7/13/2015,CPS_6_20150713_11,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,1,0.994,0.994
+7/13/2015,CPS_6_20150713_11,Ebb,Surface,Common Sunfishes,Lepomis spp.,PYS,1,0.996,0.996
+7/13/2015,CPS_6_20150713_11,Ebb,Surface,Herring and Anchovies,Clupeiformes,UIDL,4,3.986,3.986
+7/13/2015,CPS_6_20150713_17,Flood,Bottom,Unidentified Finfish,Unidentified,UIDL,3,2.987,2.987
+7/13/2015,CPS_6_20150713_17,Flood,Bottom,Herring and Anchovies,Clupeiformes,UIDL,10,9.956,9.956
+7/13/2015,CPS_6_20150713_17,Flood,Mid-depth,Herring and Anchovies,Clupeiformes,UIDL,23,21.867,21.867
+7/13/2015,CPS_6_20150713_17,Flood,Surface,Herring and Anchovies,Clupeiformes,UIDL,10,13.533,13.533
+7/13/2015,CPS_6_20150713_17,Flood,Surface,Herrings and Shad,Clupeidae,PYS,2,2.707,2.707
+7/14/2015,CPS_6_20150714_00,Flood,Bottom,Bay Anchovy,Anchoa mitchilli,JUV,5,4.649,4.649
+7/14/2015,CPS_6_20150714_00,Flood,Bottom,Common Anchovies,Anchoa spp.,JUV,1,0.930,0.930
+7/14/2015,CPS_6_20150714_00,Flood,Mid-depth,Bay Anchovy,Anchoa mitchilli,JUV,1,2.421,2.421
+7/14/2015,CPS_6_20150714_00,Flood,Surface,Alewife,Alosa pseudoharengus,JUV,1,0.950,0.950
+7/14/2015,CPS_6_20150714_00,Flood,Surface,American Eel,Anguilla rostrata,JUV,1,0.950,0.950
+7/14/2015,CPS_6_20150714_00,Flood,Surface,Hogchoker,Trinectes maculatus,JUV,1,0.950,0.633
+7/14/2015,CPS_6_20150714_04,Ebb,Bottom,Bay Anchovy,Anchoa mitchilli,JUV,2,1.708,1.708
+7/14/2015,CPS_6_20150714_04,Ebb,Bottom,Herring and Anchovies,Clupeiformes,UIDL,2,1.708,1.708
+7/14/2015,CPS_6_20150714_04,Ebb,Mid-depth,Bay Anchovy,Anchoa mitchilli,JUV,1,1.008,1.008
+7/14/2015,CPS_6_20150714_04,Ebb,Mid-depth,River Herrings,Alosa spp.,JUV,1,1.008,1.008
+7/14/2015,CPS_6_20150714_04,Ebb,Mid-depth,Herring and Anchovies,Clupeiformes,UIDL,4,4.031,4.031
+7/14/2015,CPS_6_20150714_04,Ebb,Surface,Unidentified Finfish,Unidentified,UIDL,1,1.061,1.061
+7/14/2015,CPS_6_20150714_04,Ebb,Surface,Silversides,Menidia spp.,PYS,1,1.061,1.061
+7/27/2015,CPS_6_20150727_09,Flood,Bottom,Herring and Anchovies,Clupeiformes,UIDL,2,1.608,1.608
+7/27/2015,CPS_6_20150727_09,Flood,Mid-depth,Inland Silverside,Menidia beryllina,Egg,2,1.916,1.916
+7/27/2015,CPS_6_20150727_09,Flood,Mid-depth,Unidentified Finfish,Unidentified,PYS,3,2.874,2.874
+7/27/2015,CPS_6_20150727_09,Flood,Mid-depth,Herring and Anchovies,Clupeiformes,UIDL,3,2.874,2.874
+7/27/2015,CPS_6_20150727_09,Flood,Surface,Common Sunfishes,Lepomis spp.,PYS,4,3.096,3.096
+7/27/2015,CPS_6_20150727_09,Flood,Surface,Unidentified Finfish,Unidentified,UIDL,3,2.322,2.322
+7/27/2015,CPS_6_20150727_09,Flood,Surface,Herring and Anchovies,Clupeiformes,UIDL,3,2.322,2.322
+7/27/2015,CPS_6_20150727_14,Ebb,Mid-depth,Blueback Herring,Alosa aestivalis,PYS,1,0.977,0.977
+7/27/2015,CPS_6_20150727_14,Ebb,Mid-depth,Common Sunfishes,Lepomis spp.,PYS,1,0.977,0.977
+7/27/2015,CPS_6_20150727_14,Ebb,Mid-depth,Herring and Anchovies,Clupeiformes,UIDL,1,0.977,0.977
+7/27/2015,CPS_6_20150727_21,Flood,Bottom,Bay Anchovy,Anchoa mitchilli,PYS,1,0.904,0.904
+7/27/2015,CPS_6_20150727_21,Flood,Bottom,Bay Anchovy,Anchoa mitchilli,JUV,1,0.904,0.904
+7/27/2015,CPS_6_20150727_21,Flood,Bottom,Common Sunfishes,Lepomis spp.,PYS,1,0.904,0.904
+7/27/2015,CPS_6_20150727_21,Flood,Bottom,Silversides,Menidia spp.,PYS,1,0.904,0.904
+7/27/2015,CPS_6_20150727_21,Flood,Mid-depth,Common Sunfishes,Lepomis spp.,PYS,1,0.921,0.921
+7/27/2015,CPS_6_20150727_21,Flood,Mid-depth,Inland Silverside,Menidia beryllina,Egg,1,0.921,0.921
+7/28/2015,CPS_6_20150728_03,Ebb,Bottom,Bay Anchovy,Anchoa mitchilli,PYS,6,4.895,4.895
+7/28/2015,CPS_6_20150728_03,Ebb,Bottom,Bay Anchovy,Anchoa mitchilli,JUV,2,1.632,1.632
+7/28/2015,CPS_6_20150728_03,Ebb,Bottom,Common Sunfishes,Lepomis spp.,PYS,1,0.816,0.816
+7/28/2015,CPS_6_20150728_03,Ebb,Bottom,Herring and Anchovies,Clupeiformes,UIDL,1,0.816,0.816
+7/28/2015,CPS_6_20150728_03,Ebb,Bottom,Common Anchovies,Anchoa spp.,PYS,2,1.632,1.632
+7/28/2015,CPS_6_20150728_03,Ebb,Mid-depth,Bay Anchovy,Anchoa mitchilli,PYS,1,0.870,0.870
+7/28/2015,CPS_6_20150728_03,Ebb,Mid-depth,Bay Anchovy,Anchoa mitchilli,Adult,1,0.870,0.870
+7/28/2015,CPS_6_20150728_03,Ebb,Mid-depth,Common Anchovies,Anchoa spp.,JUV,1,0.870,0.870
+7/28/2015,CPS_6_20150728_03,Ebb,Surface,Common Sunfishes,Lepomis spp.,PYS,1,0.935,0.935
+7/28/2015,CPS_6_20150728_03,Ebb,Surface,Hogchoker,Trinectes maculatus,JUV,1,0.935,0.624
+8/3/2015,CPS_6_20150803_10,EoF,Mid-depth,Common Sunfishes,Lepomis spp.,PYS,1,0.890,0.890
+8/3/2015,CPS_6_20150803_10,EoF,Surface,Bay Anchovy,Anchoa mitchilli,PYS,1,0.987,0.987
+8/3/2015,CPS_6_20150803_15,EoE,Surface,Herring and Anchovies,Clupeiformes,UIDL,2,1.979,1.979
+8/3/2015,CPS_6_20150803_21,EoF,Bottom,Bay Anchovy,Anchoa mitchilli,PYS,2,1.967,1.967
+8/3/2015,CPS_6_20150803_21,EoF,Bottom,Bay Anchovy,Anchoa mitchilli,JUV,1,0.983,0.983
+8/3/2015,CPS_6_20150803_21,EoF,Bottom,Blue Catfish,Ictalurus furcatus,YS,1,0.983,0.983
+8/3/2015,CPS_6_20150803_21,EoF,Bottom,Hogchoker,Trinectes maculatus,PYS,1,0.983,0.983
+8/3/2015,CPS_6_20150803_21,EoF,Bottom,Palaemonid Shrimp,Palaemonidae,Zoea,1,0.983,0.983
+8/3/2015,CPS_6_20150803_21,EoF,Surface,Bay Anchovy,Anchoa mitchilli,JUV,1,0.987,0.987
+8/4/2015,CPS_6_20150804_03,Flood,Mid-depth,Bay Anchovy,Anchoa mitchilli,PYS,1,0.950,0.950
+8/4/2015,CPS_6_20150804_03,Flood,Mid-depth,Bay Anchovy,Anchoa mitchilli,JUV,1,0.950,0.950
+8/4/2015,CPS_6_20150804_03,Flood,Mid-depth,Herring and Anchovies,Clupeiformes,UIDL,2,1.900,1.900
+8/4/2015,CPS_6_20150804_03,Flood,Surface,Bay Anchovy,Anchoa mitchilli,JUV,1,0.992,0.992
+8/4/2015,CPS_6_20150804_03,Flood,Surface,Hogchoker,Trinectes maculatus,JUV,1,0.992,0.661
+8/4/2015,CPS_6_20150804_03,Flood,Surface,River Herrings,Alosa spp.,JUV,2,1.983,1.983
+8/4/2015,CPS_6_20150804_03,Flood,Surface,Common Anchovies,Anchoa spp.,PYS,1,0.992,0.992
+8/17/2015,CPS_6_20150817_15,Flood,Surface,Herring and Anchovies,Clupeiformes,UIDL,1,0.927,0.927
+8/17/2015,CPS_6_20150817_21,Ebb,Bottom,Bay Anchovy,Anchoa mitchilli,JUV,1,0.986,0.986
+8/17/2015,CPS_6_20150817_21,Ebb,Mid-depth,Bay Anchovy,Anchoa mitchilli,JUV,1,0.987,0.987
+8/18/2015,CPS_6_20150818_04,Flood,Mid-depth,Common Sunfishes,Lepomis spp.,PYS,1,0.997,0.997
+9/9/2015,CPS_6_20150909_09,Flood,Surface,Unidentified Finfish,Unidentified,JUV,1,0.968,0.872
+9/9/2015,CPS_6_20150909_21,Flood,Mid-depth,Bay Anchovy,Anchoa mitchilli,JUV,1,0.986,0.986
+9/9/2015,CPS_6_20150909_21,Flood,Mid-depth,Blue Crab,Callinectes sapidus,JUV,1,0.986,0.000
+9/9/2015,CPS_6_20150909_21,Flood,Mid-depth,Blueback Herring,Alosa aestivalis,JUV,1,0.986,0.986
+9/9/2015,CPS_6_20150909_21,Flood,Mid-depth,White Perch,Morone americana,JUV,1,0.986,0.164
+9/9/2015,CPS_6_20150909_21,Flood,Surface,Blue Crab,Callinectes sapidus,JUV,2,1.979,0.000
+9/10/2015,CPS_6_20150910_03,Ebb,Bottom,Bay Anchovy,Anchoa mitchilli,PYS,2,1.712,1.712
+9/10/2015,CPS_6_20150910_03,Ebb,Surface,River Herrings,Alosa spp.,JUV,1,0.864,0.864
+9/23/2015,CPS_6_20150923_09,Flood,Surface,Palaemonid Shrimp,Palaemonidae,JUV,1,0.950,0.950
+9/23/2015,CPS_6_20150923_21,Flood,Bottom,Bay Anchovy,Anchoa mitchilli,JUV,7,6.425,6.425
+9/23/2015,CPS_6_20150923_21,Flood,Bottom,Palaemonid Shrimp,Palaemonidae,JUV,3,2.754,2.754
+9/23/2015,CPS_6_20150923_21,Flood,Bottom,Grass Shrimp,Palaemonetes spp.,JUV,1,0.918,0.918
+9/23/2015,CPS_6_20150923_21,Flood,Mid-depth,Bay Anchovy,Anchoa mitchilli,JUV,4,3.679,3.679
+9/23/2015,CPS_6_20150923_21,Flood,Surface,Bay Anchovy,Anchoa mitchilli,PYS,1,0.929,0.929
+9/23/2015,CPS_6_20150923_21,Flood,Surface,Bay Anchovy,Anchoa mitchilli,JUV,1,0.929,0.929
+9/24/2015,CPS_6_20150924_02,Ebb,Bottom,Bay Anchovy,Anchoa mitchilli,JUV,2,1.903,1.903
+9/24/2015,CPS_6_20150924_02,Ebb,Bottom,Blue Crab,Callinectes sapidus,JUV,1,0.952,0.000
+9/24/2015,CPS_6_20150924_02,Ebb,Mid-depth,Bay Anchovy,Anchoa mitchilli,JUV,3,2.838,2.838
+9/24/2015,CPS_6_20150924_02,Ebb,Mid-depth,Blue Crab,Callinectes sapidus,JUV,1,0.946,0.000
+9/24/2015,CPS_6_20150924_02,Ebb,Surface,Bay Anchovy,Anchoa mitchilli,JUV,2,1.929,1.929
+10/7/2015,CPS_6_20151007_09,Flood,Mid-depth,American Eel,Anguilla rostrata,JUV,2,1.750,1.750
+5/10/2018,CPS_6_20180510_21,Flood,Surface,American Eel,Anguilla rostrata,JUV,3,2.242,2.242
+5/10/2018,CPS_6_20180510_21,Flood,Surface,Minnow,Cyprinidae,YS,3,2.242,2.242
+5/10/2018,CPS_6_20180510_21,Flood,Surface,Minnow,Cyprinidae,PYS,40,33.623,33.623
+5/10/2018,CPS_6_20180510_21,Flood,Surface,Unidentified Finfish,Unidentified,UIDL,8,6.725,6.725
+5/10/2018,CPS_6_20180510_21,Flood,Surface,Crappie,Pomoxis spp.,PYS,3,2.242,2.242
+5/10/2018,CPS_6_20180510_21,Flood,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,469,394.508,394.508
+5/10/2018,CPS_6_20180510_21,Flood,Surface,Darters,Etheostoma spp.,YS,5,4.483,4.483
+5/10/2018,CPS_6_20180510_21,Flood,Surface,Herrings and Shad,Clupeidae,YS,3,2.242,2.242
+5/10/2018,CPS_6_20180510_21,Flood,Surface,Herrings and Shad,Clupeidae,PYS,451,378.817,378.817
+5/10/2018,CPS_6_20180510_21,Flood,Surface,Eastern Shiners,Notropis,PYS,8,6.725,6.725
+5/10/2018,CPS_6_20180510_21,Flood,Surface,Carpsuckers,Carpiodes,PYS,59,49.313,49.313
+5/11/2018,CPS_6_20180511_03,Ebb,Bottom,Minnow,Cyprinidae,PYS,33,30.845,30.845
+5/11/2018,CPS_6_20180511_03,Ebb,Bottom,Unidentified Finfish,Unidentified,UIDL,4,3.739,3.739
+5/11/2018,CPS_6_20180511_03,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,1,0.935,0.935
+5/11/2018,CPS_6_20180511_03,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,520,486.040,486.040
+5/11/2018,CPS_6_20180511_03,Ebb,Bottom,Darters,Etheostoma spp.,YS,9,8.412,8.412
+5/11/2018,CPS_6_20180511_03,Ebb,Bottom,Darters,Etheostoma spp.,PYS,12,11.216,11.216
+5/11/2018,CPS_6_20180511_03,Ebb,Bottom,Herrings and Shad,Clupeidae,PYS,38,35.518,35.518
+5/11/2018,CPS_6_20180511_03,Ebb,Bottom,Carpsuckers,Carpiodes,PYS,19,17.759,17.759
+5/11/2018,CPS_6_20180511_03,Ebb,Mid-depth,Minnow,Cyprinidae,PYS,64,61.020,61.020
+5/11/2018,CPS_6_20180511_03,Ebb,Mid-depth,Tessellated Darter,Etheostoma olmstedi,PYS,5,5.085,5.085
+5/11/2018,CPS_6_20180511_03,Ebb,Mid-depth,Unidentified Finfish,Unidentified,UIDL,16,15.255,15.255
+5/11/2018,CPS_6_20180511_03,Ebb,Mid-depth,Yellow Perch,Perca flavescens,PYS,5,5.085,5.085
+5/11/2018,CPS_6_20180511_03,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,448,427.137,427.137
+5/11/2018,CPS_6_20180511_03,Ebb,Mid-depth,Darters,Etheostoma spp.,YS,16,15.255,15.255
+5/11/2018,CPS_6_20180511_03,Ebb,Mid-depth,Darters,Etheostoma spp.,PYS,11,10.170,10.170
+5/11/2018,CPS_6_20180511_03,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,800,762.745,762.745
+5/11/2018,CPS_6_20180511_03,Ebb,Mid-depth,Carpsuckers,Carpiodes,PYS,112,106.784,106.784
+5/11/2018,CPS_6_20180511_03,Ebb,Mid-depth,White Sucker,Catostomus commersonii,PYS,5,5.085,5.085
+5/11/2018,CPS_6_20180511_03,Ebb,Surface,Minnow,Cyprinidae,PYS,180,171.584,171.584
+5/11/2018,CPS_6_20180511_03,Ebb,Surface,Asian Clam,Corbicula fluminea,JUV,1,0.953,0.953
+5/11/2018,CPS_6_20180511_03,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,364,346.980,346.980
+5/11/2018,CPS_6_20180511_03,Ebb,Surface,Sunfish,Centrarchidae,PYS,4,3.813,3.813
+5/11/2018,CPS_6_20180511_03,Ebb,Surface,Darters,Etheostoma spp.,YS,8,7.626,7.626
+5/11/2018,CPS_6_20180511_03,Ebb,Surface,Darters,Etheostoma spp.,PYS,16,15.252,15.252
+5/11/2018,CPS_6_20180511_03,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,48,45.756,45.756
+5/11/2018,CPS_6_20180511_03,Ebb,Surface,Carpsuckers,Carpiodes,YS,4,3.813,3.813
+5/11/2018,CPS_6_20180511_03,Ebb,Surface,Carpsuckers,Carpiodes,PYS,412,392.736,392.736
+5/22/2018,CPS_6_20180522_09,Flood,Bottom,Sucker,Catostomidae,PYS,1,0.961,0.961
+5/22/2018,CPS_6_20180522_09,Flood,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,123,117.910,117.910
+5/22/2018,CPS_6_20180522_09,Flood,Bottom,Darters,Etheostoma spp.,YS,1,0.961,0.961
+5/22/2018,CPS_6_20180522_09,Flood,Bottom,Eastern Shiners,Notropis,PYS,1,0.961,0.961
+5/22/2018,CPS_6_20180522_09,Flood,Bottom,Perches,Percidae,PYS,1,0.961,0.961
+5/22/2018,CPS_6_20180522_09,Flood,Mid-depth,Largemouth Bass,Micropterus salmoides,PYS,1,0.978,0.978
+5/22/2018,CPS_6_20180522_09,Flood,Mid-depth,Yellow Perch,Perca flavescens,PYS,1,0.978,0.978
+5/22/2018,CPS_6_20180522_09,Flood,Mid-depth,Silversides,Menidia spp.,PYS,1,0.978,0.978
+5/22/2018,CPS_6_20180522_09,Flood,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,121,118.684,118.684
+5/22/2018,CPS_6_20180522_09,Flood,Mid-depth,Herrings and Shad,Clupeidae,PYS,4,3.913,3.913
+5/22/2018,CPS_6_20180522_09,Flood,Mid-depth,Eastern Shiners,Notropis,PYS,1,0.978,0.978
+5/22/2018,CPS_6_20180522_09,Flood,Mid-depth,Carpsuckers,Carpiodes,PYS,2,1.956,1.956
+5/22/2018,CPS_6_20180522_09,Flood,Surface,Minnow,Cyprinidae,PYS,3,2.953,2.953
+5/22/2018,CPS_6_20180522_09,Flood,Surface,River Herrings,Alosa spp.,PYS,1,0.984,0.984
+5/22/2018,CPS_6_20180522_09,Flood,Surface,Yellow Perch,Perca flavescens,YS,10,9.842,9.842
+5/22/2018,CPS_6_20180522_09,Flood,Surface,Yellow Perch,Perca flavescens,PYS,36,35.432,35.432
+5/22/2018,CPS_6_20180522_09,Flood,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,31,30.511,30.511
+5/22/2018,CPS_6_20180522_09,Flood,Surface,Herrings and Shad,Clupeidae,PYS,33,32.479,32.479
+5/22/2018,CPS_6_20180522_09,Flood,Surface,Eastern Shiners,Notropis,PYS,9,8.858,8.858
+5/22/2018,CPS_6_20180522_15,Ebb,Bottom,Sucker,Catostomidae,PYS,1,0.996,0.996
+5/22/2018,CPS_6_20180522_15,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,52,51.791,51.791
+5/22/2018,CPS_6_20180522_15,Ebb,Mid-depth,Minnow,Cyprinidae,PYS,1,0.971,0.971
+5/22/2018,CPS_6_20180522_15,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,97,94.487,94.487
+5/22/2018,CPS_6_20180522_15,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,YS,1,0.971,0.971
+5/22/2018,CPS_6_20180522_15,Ebb,Mid-depth,Darters,Etheostoma spp.,YS,1,0.971,0.971
+5/22/2018,CPS_6_20180522_15,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,1,0.971,0.971
+5/22/2018,CPS_6_20180522_15,Ebb,Mid-depth,Eastern Shiners,Notropis,PYS,1,0.971,0.971
+5/22/2018,CPS_6_20180522_15,Ebb,Mid-depth,Carpsuckers,Carpiodes,PYS,1,0.971,0.971
+5/22/2018,CPS_6_20180522_15,Ebb,Surface,Yellow Perch,Perca flavescens,YS,4,3.960,3.960
+5/22/2018,CPS_6_20180522_15,Ebb,Surface,Yellow Perch,Perca flavescens,PYS,7,6.930,6.930
+5/22/2018,CPS_6_20180522_15,Ebb,Surface,Silversides,Menidia spp.,PYS,1,0.990,0.990
+5/22/2018,CPS_6_20180522_15,Ebb,Surface,Crappie,Pomoxis spp.,PYS,1,0.990,0.990
+5/22/2018,CPS_6_20180522_15,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,101,99.570,99.570
+5/22/2018,CPS_6_20180522_15,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,2,1.980,1.980
+5/22/2018,CPS_6_20180522_15,Ebb,Surface,Eastern Shiners,Notropis,PYS,2,1.980,1.980
+5/22/2018,CPS_6_20180522_15,Ebb,Surface,Carpsuckers,Carpiodes,PYS,4,3.960,3.960
+5/22/2018,CPS_6_20180522_15,Ebb,Surface,Black Basses,Micropterus spp.,PYS,1,0.990,0.990
+5/22/2018,CPS_6_20180522_20,Flood,Bottom,Common Sunfishes,Lepomis spp.,PYS,1,0.990,0.990
+5/22/2018,CPS_6_20180522_20,Flood,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,491,485.943,485.943
+5/22/2018,CPS_6_20180522_20,Flood,Bottom,Darters,Etheostoma spp.,YS,1,0.990,0.990
+5/22/2018,CPS_6_20180522_20,Flood,Bottom,Herrings and Shad,Clupeidae,PYS,2,1.981,1.981
+5/22/2018,CPS_6_20180522_20,Flood,Bottom,Eastern Shiners,Notropis,PYS,2,1.981,1.981
+5/22/2018,CPS_6_20180522_20,Flood,Bottom,Carpsuckers,Carpiodes,PYS,2,1.981,1.981
+5/22/2018,CPS_6_20180522_20,Flood,Mid-depth,Spottail Shiner,Notropis hudsonius,PYS,3,2.965,2.965
+5/22/2018,CPS_6_20180522_20,Flood,Mid-depth,Sucker,Catostomidae,YS,1,0.988,0.988
+5/22/2018,CPS_6_20180522_20,Flood,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,725,716.872,716.872
+5/22/2018,CPS_6_20180522_20,Flood,Mid-depth,Darters,Etheostoma spp.,PYS,1,0.988,0.988
+5/22/2018,CPS_6_20180522_20,Flood,Mid-depth,Herrings and Shad,Clupeidae,PYS,1,0.988,0.988
+5/22/2018,CPS_6_20180522_20,Flood,Mid-depth,Eastern Shiners,Notropis,PYS,5,4.942,4.942
+5/22/2018,CPS_6_20180522_20,Flood,Mid-depth,Carpsuckers,Carpiodes,PYS,4,3.953,3.953
+5/22/2018,CPS_6_20180522_20,Flood,Surface,Bluegill,Lepomis macrochirus,JUV,1,0.994,0.000
+5/22/2018,CPS_6_20180522_20,Flood,Surface,Minnow,Cyprinidae,PYS,2,1.988,1.988
+5/22/2018,CPS_6_20180522_20,Flood,Surface,Spottail Shiner,Notropis hudsonius,PYS,1,0.994,0.994
+5/22/2018,CPS_6_20180522_20,Flood,Surface,Tessellated Darter,Etheostoma olmstedi,PYS,1,0.994,0.994
+5/22/2018,CPS_6_20180522_20,Flood,Surface,Tessellated Darter,Etheostoma olmstedi,JUV,1,0.994,0.994
+5/22/2018,CPS_6_20180522_20,Flood,Surface,Crappie,Pomoxis spp.,PYS,4,3.976,3.976
+5/22/2018,CPS_6_20180522_20,Flood,Surface,Crappie,Pomoxis spp.,JUV,5,4.970,4.970
+5/22/2018,CPS_6_20180522_20,Flood,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,15,14.909,14.909
+5/22/2018,CPS_6_20180522_20,Flood,Surface,Sunfish,Centrarchidae,PYS,1,0.994,0.994
+5/22/2018,CPS_6_20180522_20,Flood,Surface,Darters,Etheostoma spp.,YS,2,1.988,1.988
+5/22/2018,CPS_6_20180522_20,Flood,Surface,Darters,Etheostoma spp.,PYS,1,0.994,0.994
+5/22/2018,CPS_6_20180522_20,Flood,Surface,Herrings and Shad,Clupeidae,PYS,2,1.988,1.988
+5/22/2018,CPS_6_20180522_20,Flood,Surface,Eastern Shiners,Notropis,PYS,10,9.939,9.939
+5/22/2018,CPS_6_20180522_20,Flood,Surface,Carpsuckers,Carpiodes,YS,1,0.994,0.994
+5/22/2018,CPS_6_20180522_20,Flood,Surface,Carpsuckers,Carpiodes,PYS,1,0.994,0.994
+5/22/2018,CPS_6_20180522_20,Flood,Surface,Smallmouth Bass,Micropterus dolomieu,PYS,1,0.994,0.994
+5/23/2018,CPS_6_20180523_03,Ebb,Bottom,Minnow,Cyprinidae,PYS,1,0.987,0.987
+5/23/2018,CPS_6_20180523_03,Ebb,Bottom,River Herrings,Alosa spp.,Egg,3,2.632,2.632
+5/23/2018,CPS_6_20180523_03,Ebb,Bottom,Unidentified Finfish,Unidentified,UIDL,1,0.987,0.987
+5/23/2018,CPS_6_20180523_03,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,1,0.987,0.987
+5/23/2018,CPS_6_20180523_03,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,189,186.845,186.845
+5/23/2018,CPS_6_20180523_03,Ebb,Bottom,Eastern Shiners,Notropis,PYS,2,1.974,1.974
+5/23/2018,CPS_6_20180523_03,Ebb,Mid-depth,Minnow,Cyprinidae,PYS,2,1.972,1.972
+5/23/2018,CPS_6_20180523_03,Ebb,Mid-depth,Spottail Shiner,Notropis hudsonius,PYS,2,1.972,1.972
+5/23/2018,CPS_6_20180523_03,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,90,88.330,88.330
+5/23/2018,CPS_6_20180523_03,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,1,0.986,0.986
+5/23/2018,CPS_6_20180523_03,Ebb,Mid-depth,Eastern Shiners,Notropis,PYS,3,2.957,2.957
+5/23/2018,CPS_6_20180523_03,Ebb,Surface,Largemouth Bass,Micropterus salmoides,JUV,2,1.942,1.942
+5/23/2018,CPS_6_20180523_03,Ebb,Surface,Minnow,Cyprinidae,PYS,3,2.913,2.913
+5/23/2018,CPS_6_20180523_03,Ebb,Surface,Spottail Shiner,Notropis hudsonius,PYS,1,0.971,0.971
+5/23/2018,CPS_6_20180523_03,Ebb,Surface,Tessellated Darter,Etheostoma olmstedi,JUV,1,0.971,0.971
+5/23/2018,CPS_6_20180523_03,Ebb,Surface,Unidentified Finfish,Unidentified,UIDL,1,0.971,0.971
+5/23/2018,CPS_6_20180523_03,Ebb,Surface,Yellow Perch,Perca flavescens,PYS,6,5.827,5.827
+5/23/2018,CPS_6_20180523_03,Ebb,Surface,Crappie,Pomoxis spp.,JUV,2,1.942,1.942
+5/23/2018,CPS_6_20180523_03,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,155,150.204,150.204
+5/23/2018,CPS_6_20180523_03,Ebb,Surface,Common Carp,Cyprinus carpio,YS,1,0.971,0.971
+5/23/2018,CPS_6_20180523_03,Ebb,Surface,Darters,Etheostoma spp.,YS,3,2.913,2.913
+5/23/2018,CPS_6_20180523_03,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,4,3.885,3.885
+5/23/2018,CPS_6_20180523_03,Ebb,Surface,Eastern Shiners,Notropis,PYS,6,5.827,5.827
+5/23/2018,CPS_6_20180523_03,Ebb,Surface,Carpsuckers,Carpiodes,PYS,9,8.740,8.740
+6/5/2018,CPS_6_20180605_09,Ebb,Bottom,Minnow,Cyprinidae,PYS,4,3.987,3.987
+6/5/2018,CPS_6_20180605_09,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,26,25.917,25.917
+6/5/2018,CPS_6_20180605_09,Ebb,Bottom,Herrings and Shad,Clupeidae,PYS,8,7.974,7.974
+6/5/2018,CPS_6_20180605_09,Ebb,Mid-depth,Minnow,Cyprinidae,PYS,4,3.991,3.991
+6/5/2018,CPS_6_20180605_09,Ebb,Mid-depth,River Herrings,Alosa spp.,JUV,1,0.998,0.998
+6/5/2018,CPS_6_20180605_09,Ebb,Mid-depth,Silversides,Menidia spp.,Egg,1,0.998,0.998
+6/5/2018,CPS_6_20180605_09,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,29,28.936,28.936
+6/5/2018,CPS_6_20180605_09,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,YS,2,1.996,1.996
+6/5/2018,CPS_6_20180605_09,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,71,70.842,70.842
+6/5/2018,CPS_6_20180605_09,Ebb,Surface,Common Sunfishes,Lepomis spp.,PYS,1,0.998,0.998
+6/5/2018,CPS_6_20180605_09,Ebb,Surface,Minnow,Cyprinidae,PYS,4,3.994,3.994
+6/5/2018,CPS_6_20180605_09,Ebb,Surface,River Herrings,Alosa spp.,PYS,2,1.997,1.997
+6/5/2018,CPS_6_20180605_09,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,14,13.977,13.977
+6/5/2018,CPS_6_20180605_09,Ebb,Surface,Common Carp,Cyprinus carpio,YS,2,1.997,1.997
+6/5/2018,CPS_6_20180605_09,Ebb,Surface,Darters,Etheostoma spp.,YS,1,0.998,0.998
+6/5/2018,CPS_6_20180605_09,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,53,52.914,52.914
+6/5/2018,CPS_6_20180605_09,Ebb,Surface,Carpsuckers,Carpiodes,PYS,1,0.998,0.998
+6/5/2018,CPS_6_20180605_15,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,94,90.599,90.599
+6/5/2018,CPS_6_20180605_15,Ebb,Mid-depth,Common Sunfishes,Lepomis spp.,PYS,1,0.963,0.963
+6/5/2018,CPS_6_20180605_15,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,64,61.639,61.639
+6/5/2018,CPS_6_20180605_15,Ebb,Mid-depth,Common Carp,Cyprinus carpio,YS,1,0.963,0.963
+6/5/2018,CPS_6_20180605_15,Ebb,Mid-depth,Darters,Etheostoma spp.,YS,1,0.963,0.963
+6/5/2018,CPS_6_20180605_15,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,1,0.963,0.963
+6/5/2018,CPS_6_20180605_15,Ebb,Surface,Minnow,Cyprinidae,PYS,5,4.989,4.989
+6/5/2018,CPS_6_20180605_15,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,40,39.910,39.910
+6/5/2018,CPS_6_20180605_15,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,YS,1,0.998,0.998
+6/5/2018,CPS_6_20180605_15,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,64,63.855,63.855
+6/5/2018,CPS_6_20180605_15,Ebb,Surface,Carpsuckers,Carpiodes,YS,1,0.998,0.998
+6/5/2018,CPS_6_20180605_15,Ebb,Surface,Carpsuckers,Carpiodes,PYS,1,0.998,0.998
+6/5/2018,CPS_6_20180605_20,Flood,Bottom,Minnow,Cyprinidae,PYS,7,6.891,6.891
+6/5/2018,CPS_6_20180605_20,Flood,Bottom,Spottail Shiner,Notropis hudsonius,Adult,1,0.984,0.570
+6/5/2018,CPS_6_20180605_20,Flood,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,1136,1118.314,1118.314
+6/5/2018,CPS_6_20180605_20,Flood,Bottom,Gizzard Shad,Dorosoma cepedianum,YS,1,0.984,0.984
+6/5/2018,CPS_6_20180605_20,Flood,Bottom,Darters,Etheostoma spp.,YS,1,0.984,0.984
+6/5/2018,CPS_6_20180605_20,Flood,Bottom,Herrings and Shad,Clupeidae,PYS,19,18.704,18.704
+6/5/2018,CPS_6_20180605_20,Flood,Mid-depth,Largemouth Bass,Micropterus salmoides,JUV,2,1.993,1.993
+6/5/2018,CPS_6_20180605_20,Flood,Mid-depth,Minnow,Cyprinidae,PYS,12,11.955,11.955
+6/5/2018,CPS_6_20180605_20,Flood,Mid-depth,River Herrings,Alosa spp.,JUV,1,0.996,0.996
+6/5/2018,CPS_6_20180605_20,Flood,Mid-depth,Unidentified Finfish,Unidentified,UIDL,1,0.996,0.996
+6/5/2018,CPS_6_20180605_20,Flood,Mid-depth,Sucker,Catostomidae,PYS,3,2.989,2.989
+6/5/2018,CPS_6_20180605_20,Flood,Mid-depth,Crappie,Pomoxis spp.,PYS,1,0.996,0.996
+6/5/2018,CPS_6_20180605_20,Flood,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,1504,1498.397,1498.397
+6/5/2018,CPS_6_20180605_20,Flood,Mid-depth,Common Carp,Cyprinus carpio,YS,1,0.996,0.996
+6/5/2018,CPS_6_20180605_20,Flood,Mid-depth,Darters,Etheostoma spp.,YS,1,0.996,0.996
+6/5/2018,CPS_6_20180605_20,Flood,Surface,Largemouth Bass,Micropterus salmoides,JUV,1,0.987,0.987
+6/5/2018,CPS_6_20180605_20,Flood,Surface,Minnow,Cyprinidae,PYS,1,0.987,0.987
+6/5/2018,CPS_6_20180605_20,Flood,Surface,Spottail Shiner,Notropis hudsonius,JUV,3,2.962,2.962
+6/5/2018,CPS_6_20180605_20,Flood,Surface,Tessellated Darter,Etheostoma olmstedi,JUV,1,0.987,0.987
+6/5/2018,CPS_6_20180605_20,Flood,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,1208,1192.749,1192.749
+6/5/2018,CPS_6_20180605_20,Flood,Surface,Common Carp,Cyprinus carpio,YS,3,2.962,2.962
+6/5/2018,CPS_6_20180605_20,Flood,Surface,Carpsuckers,Carpiodes,PYS,1,0.987,0.987
+6/5/2018,CPS_6_20180605_20,Flood,Surface,Redhorses,Moxostoma spp.,PYS,1,0.987,0.987
+6/6/2018,CPS_6_20180606_03,Ebb,Bottom,Minnow,Cyprinidae,PYS,26,25.903,25.903
+6/6/2018,CPS_6_20180606_03,Ebb,Bottom,Spottail Shiner,Notropis hudsonius,JUV,2,1.993,1.993
+6/6/2018,CPS_6_20180606_03,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,116,115.568,115.568
+6/6/2018,CPS_6_20180606_03,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,YS,12,11.955,11.955
+6/6/2018,CPS_6_20180606_03,Ebb,Bottom,Common Carp,Cyprinus carpio,PYS,2,1.993,1.993
+6/6/2018,CPS_6_20180606_03,Ebb,Bottom,Herrings and Shad,Clupeidae,PYS,258,257.039,257.039
+6/6/2018,CPS_6_20180606_03,Ebb,Bottom,Carpsuckers,Carpiodes,PYS,4,3.985,3.985
+6/6/2018,CPS_6_20180606_03,Ebb,Mid-depth,Tessellated Darter,Etheostoma olmstedi,JUV,1,0.985,0.985
+6/6/2018,CPS_6_20180606_03,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,176,173.376,173.376
+6/6/2018,CPS_6_20180606_03,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,YS,6,5.911,5.911
+6/6/2018,CPS_6_20180606_03,Ebb,Mid-depth,Common Carp,Cyprinus carpio,YS,1,0.985,0.985
+6/6/2018,CPS_6_20180606_03,Ebb,Mid-depth,Common Carp,Cyprinus carpio,PYS,2,1.970,1.970
+6/6/2018,CPS_6_20180606_03,Ebb,Mid-depth,Darters,Etheostoma spp.,YS,3,2.955,2.955
+6/6/2018,CPS_6_20180606_03,Ebb,Surface,Common Sunfishes,Lepomis spp.,PYS,1,0.994,0.994
+6/6/2018,CPS_6_20180606_03,Ebb,Surface,Minnow,Cyprinidae,PYS,26,25.845,25.845
+6/6/2018,CPS_6_20180606_03,Ebb,Surface,River Herrings,Alosa spp.,PYS,1,0.994,0.994
+6/6/2018,CPS_6_20180606_03,Ebb,Surface,Tessellated Darter,Etheostoma olmstedi,JUV,1,0.994,0.994
+6/6/2018,CPS_6_20180606_03,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,165,163.588,163.588
+6/6/2018,CPS_6_20180606_03,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,YS,3,2.982,2.982
+6/6/2018,CPS_6_20180606_03,Ebb,Surface,Common Carp,Cyprinus carpio,YS,1,0.994,0.994
+6/6/2018,CPS_6_20180606_03,Ebb,Surface,Darters,Etheostoma spp.,YS,3,2.982,2.982
+6/6/2018,CPS_6_20180606_03,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,113,112.325,112.325
+6/6/2018,CPS_6_20180606_03,Ebb,Surface,Eastern Shiners,Notropis,PYS,1,0.994,0.994
+6/26/2018,CPS_6_20180626_09,Ebb,Bottom,Blue Catfish,Ictalurus furcatus,PYS,1,0.997,0.997
+6/26/2018,CPS_6_20180626_09,Ebb,Bottom,Blue Catfish,Ictalurus furcatus,JUV,1,0.997,0.997
+6/26/2018,CPS_6_20180626_09,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,4,3.988,3.988
+6/26/2018,CPS_6_20180626_09,Ebb,Bottom,Herrings and Shad,Clupeidae,PYS,1,0.997,0.997
+6/26/2018,CPS_6_20180626_09,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,8,7.972,7.972
+6/26/2018,CPS_6_20180626_09,Ebb,Mid-depth,Smallmouth Bass,Micropterus dolomieu,PYS,1,0.997,0.997
+6/26/2018,CPS_6_20180626_09,Ebb,Surface,Common Sunfishes,Lepomis spp.,PYS,2,1.995,1.995
+6/26/2018,CPS_6_20180626_09,Ebb,Surface,Yellow Perch,Perca flavescens,PYS,2,1.995,1.995
+6/26/2018,CPS_6_20180626_09,Ebb,Surface,Killifish,Fundulus sp.,YS,1,0.997,0.997
+6/26/2018,CPS_6_20180626_09,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,15,14.960,14.960
+6/26/2018,CPS_6_20180626_15,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,1,0.997,0.997
+6/26/2018,CPS_6_20180626_15,Flood,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,1,0.997,0.997
+6/26/2018,CPS_6_20180626_15,Flood,Bottom,Forktail Catfishes,Ictalurus sp.,PYS,1,0.997,0.997
+6/26/2018,CPS_6_20180626_15,Flood,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,4,3.916,3.916
+6/26/2018,CPS_6_20180626_15,Flood,Mid-depth,Herrings and Shad,Clupeidae,PYS,3,2.937,2.937
+6/26/2018,CPS_6_20180626_15,Flood,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,3,2.978,2.978
+6/26/2018,CPS_6_20180626_15,Flood,Surface,Herrings and Shad,Clupeidae,PYS,4,3.971,3.971
+6/26/2018,CPS_6_20180626_21,Ebb,Bottom,Blue Catfish,Ictalurus furcatus,JUV,3,2.961,2.961
+6/26/2018,CPS_6_20180626_21,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,21,20.730,20.730
+6/26/2018,CPS_6_20180626_21,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,41,40.473,40.473
+6/26/2018,CPS_6_20180626_21,Ebb,Bottom,Forktail Catfishes,Ictalurus sp.,JUV,1,0.987,0.987
+6/26/2018,CPS_6_20180626_21,Ebb,Bottom,Flathead Catfish,Pylodictis olivaris,JUV,2,1.974,1.974
+6/26/2018,CPS_6_20180626_21,Ebb,Mid-depth,Minnow,Cyprinidae,PYS,6,5.948,5.948
+6/26/2018,CPS_6_20180626_21,Ebb,Mid-depth,Yellow Perch,Perca flavescens,PYS,1,0.991,0.991
+6/26/2018,CPS_6_20180626_21,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,30,29.741,29.741
+6/26/2018,CPS_6_20180626_21,Ebb,Mid-depth,Forktail Catfishes,Ictalurus sp.,JUV,1,0.991,0.991
+6/26/2018,CPS_6_20180626_21,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,1,0.991,0.991
+6/26/2018,CPS_6_20180626_21,Ebb,Surface,Common Sunfishes,Lepomis spp.,PYS,1,0.997,0.997
+6/26/2018,CPS_6_20180626_21,Ebb,Surface,Minnow,Cyprinidae,PYS,3,2.990,2.990
+6/26/2018,CPS_6_20180626_21,Ebb,Surface,Unidentified Finfish,Unidentified,UIDL,1,0.997,0.997
+6/26/2018,CPS_6_20180626_21,Ebb,Surface,Yellow Perch,Perca flavescens,PYS,1,0.997,0.997
+6/26/2018,CPS_6_20180626_21,Ebb,Surface,Killifish,Fundulus sp.,YS,1,0.997,0.997
+6/26/2018,CPS_6_20180626_21,Ebb,Surface,Asian Clam,Corbicula fluminea,JUV,5,4.984,4.984
+6/26/2018,CPS_6_20180626_21,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,YS,1,0.997,0.997
+6/26/2018,CPS_6_20180626_21,Ebb,Surface,Longnose Gar,Lepisosteus osseus,JUV,1,0.997,0.997
+6/26/2018,CPS_6_20180626_21,Ebb,Surface,Eastern Shiners,Notropis,PYS,2,1.993,1.993
+6/26/2018,CPS_6_20180626_21,Ebb,Surface,Carpsuckers,Carpiodes,PYS,2,1.993,1.993
+6/27/2018,CPS_6_20180627_03,Flood,Bottom,Blue Catfish,Ictalurus furcatus,JUV,1,0.996,0.996
+6/27/2018,CPS_6_20180627_03,Flood,Bottom,Blueback Herring,Alosa aestivalis,JUV,1,0.996,0.996
+6/27/2018,CPS_6_20180627_03,Flood,Bottom,Common Sunfishes,Lepomis spp.,PYS,1,0.996,0.996
+6/27/2018,CPS_6_20180627_03,Flood,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,1,0.996,0.996
+6/27/2018,CPS_6_20180627_03,Flood,Bottom,Forktail Catfishes,Ictalurus sp.,PYS,1,0.996,0.996
+6/27/2018,CPS_6_20180627_03,Flood,Bottom,Herrings and Shad,Clupeidae,PYS,1,0.996,0.996
+6/27/2018,CPS_6_20180627_03,Flood,Bottom,Flathead Catfish,Pylodictis olivaris,JUV,2,1.992,1.992
+6/27/2018,CPS_6_20180627_03,Flood,Mid-depth,Common Sunfishes,Lepomis spp.,PYS,2,1.945,1.945
+6/27/2018,CPS_6_20180627_03,Flood,Mid-depth,Largemouth Bass,Micropterus salmoides,JUV,1,0.973,0.973
+6/27/2018,CPS_6_20180627_03,Flood,Mid-depth,Minnow,Cyprinidae,PYS,2,1.945,1.945
+6/27/2018,CPS_6_20180627_03,Flood,Mid-depth,Sucker,Catostomidae,PYS,1,0.973,0.973
+6/27/2018,CPS_6_20180627_03,Flood,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,6,5.835,5.835
+6/27/2018,CPS_6_20180627_03,Flood,Surface,Common Sunfishes,Lepomis spp.,PYS,1,0.996,0.996
+6/27/2018,CPS_6_20180627_03,Flood,Surface,Asian Clam,Corbicula fluminea,JUV,1,0.996,0.996
+6/27/2018,CPS_6_20180627_03,Flood,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,3,2.987,2.987
+6/27/2018,CPS_6_20180627_03,Flood,Surface,Herrings and Shad,Clupeidae,PYS,1,0.996,0.996
+6/27/2018,CPS_6_20180627_03,Flood,Surface,Smallmouth Bass,Micropterus dolomieu,PYS,1,0.996,0.996
+7/10/2018,CPS_6_20180710_09,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,157,155.407,155.407
+7/10/2018,CPS_6_20180710_09,Flood,Bottom,Herrings and Shad,Clupeidae,PYS,34,33.655,33.655
+7/10/2018,CPS_6_20180710_09,Flood,Mid-depth,Common Sunfishes,Lepomis spp.,PYS,1,0.988,0.988
+7/10/2018,CPS_6_20180710_09,Flood,Mid-depth,Unidentified Finfish,Unidentified,UIDL,1,0.988,0.988
+7/10/2018,CPS_6_20180710_09,Flood,Mid-depth,Silversides,Menidia spp.,Egg,1,0.988,0.988
+7/10/2018,CPS_6_20180710_09,Flood,Mid-depth,Asian Clam,Corbicula fluminea,JUV,58,57.291,57.291
+7/10/2018,CPS_6_20180710_09,Flood,Mid-depth,Sunfish,Centrarchidae,PYS,2,1.976,1.976
+7/10/2018,CPS_6_20180710_09,Flood,Surface,Asian Clam,Corbicula fluminea,JUV,33,32.917,32.917
+7/10/2018,CPS_6_20180710_09,Flood,Surface,Gizzard Shad,Dorosoma cepedianum,YS,1,0.997,0.997
+7/10/2018,CPS_6_20180710_09,Flood,Surface,Sunfish,Centrarchidae,PYS,3,2.992,2.992
+7/10/2018,CPS_6_20180710_09,Flood,Surface,Herrings and Shad,Clupeidae,PYS,63,62.841,62.841
+7/10/2018,CPS_6_20180710_16,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,91,88.242,88.242
+7/10/2018,CPS_6_20180710_16,Ebb,Bottom,Herrings and Shad,Clupeidae,PYS,11,10.667,10.667
+7/10/2018,CPS_6_20180710_16,Ebb,Mid-depth,Common Sunfishes,Lepomis spp.,PYS,1,0.998,0.998
+7/10/2018,CPS_6_20180710_16,Ebb,Mid-depth,Unidentified Finfish,Unidentified,UIDL,1,0.998,0.998
+7/10/2018,CPS_6_20180710_16,Ebb,Mid-depth,Silversides,Menidia spp.,Egg,1,0.998,0.998
+7/10/2018,CPS_6_20180710_16,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,9,8.980,8.980
+7/10/2018,CPS_6_20180710_16,Ebb,Surface,Common Sunfishes,Lepomis spp.,PYS,2,1.976,1.976
+7/10/2018,CPS_6_20180710_16,Ebb,Surface,Silversides,Menidia spp.,Egg,1,0.988,0.988
+7/10/2018,CPS_6_20180710_16,Ebb,Surface,Silversides,Menidia spp.,PYS,2,1.976,1.976
+7/10/2018,CPS_6_20180710_16,Ebb,Surface,Sunfish,Centrarchidae,PYS,1,0.988,0.988
+7/10/2018,CPS_6_20180710_16,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,9,8.893,8.893
+7/10/2018,CPS_6_20180710_21,Flood,Bottom,Blue Catfish,Ictalurus furcatus,JUV,1,0.995,0.995
+7/10/2018,CPS_6_20180710_21,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,2048,2037.987,2037.987
+7/10/2018,CPS_6_20180710_21,Flood,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,8,7.961,7.961
+7/10/2018,CPS_6_20180710_21,Flood,Mid-depth,Common Sunfishes,Lepomis spp.,PYS,2,1.993,1.993
+7/10/2018,CPS_6_20180710_21,Flood,Mid-depth,Minnow,Cyprinidae,YS,1,0.997,0.997
+7/10/2018,CPS_6_20180710_21,Flood,Mid-depth,Silversides,Menidia spp.,Egg,3,2.990,2.990
+7/10/2018,CPS_6_20180710_21,Flood,Mid-depth,Asian Clam,Corbicula fluminea,JUV,454,452.496,452.496
+7/10/2018,CPS_6_20180710_21,Flood,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,5,4.983,4.983
+7/10/2018,CPS_6_20180710_21,Flood,Mid-depth,Herrings and Shad,Clupeidae,PYS,6,5.980,5.980
+7/10/2018,CPS_6_20180710_21,Flood,Surface,Common Sunfishes,Lepomis spp.,PYS,1,0.997,0.997
+7/10/2018,CPS_6_20180710_21,Flood,Surface,Minnow,Cyprinidae,PYS,1,0.997,0.997
+7/10/2018,CPS_6_20180710_21,Flood,Surface,Silversides,Menidia spp.,Egg,2,1.994,1.994
+7/10/2018,CPS_6_20180710_21,Flood,Surface,Asian Clam,Corbicula fluminea,JUV,282,281.140,281.140
+7/10/2018,CPS_6_20180710_21,Flood,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,4,3.988,3.988
+7/11/2018,CPS_6_20180711_02,Flood,Bottom,Blue Catfish,Ictalurus furcatus,JUV,1,0.998,0.998
+7/11/2018,CPS_6_20180711_02,Flood,Bottom,Spottail Shiner,Notropis hudsonius,Adult,1,0.998,0.578
+7/11/2018,CPS_6_20180711_02,Flood,Bottom,Tessellated Darter,Etheostoma olmstedi,JUV,1,0.998,0.998
+7/11/2018,CPS_6_20180711_02,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,31,30.948,30.948
+7/11/2018,CPS_6_20180711_02,Flood,Bottom,Herrings and Shad,Clupeidae,PYS,18,17.970,17.970
+7/11/2018,CPS_6_20180711_02,Flood,Bottom,Flathead Catfish,Pylodictis olivaris,JUV,1,0.998,0.998
+7/11/2018,CPS_6_20180711_02,Flood,Mid-depth,Minnow,Cyprinidae,Adult,1,0.977,0.977
+7/11/2018,CPS_6_20180711_02,Flood,Mid-depth,Killifish,Fundulus sp.,PYS,1,0.977,0.977
+7/11/2018,CPS_6_20180711_02,Flood,Mid-depth,Silversides,Menidia spp.,Egg,1,0.977,0.977
+7/11/2018,CPS_6_20180711_02,Flood,Mid-depth,Asian Clam,Corbicula fluminea,JUV,9,8.789,8.789
+7/11/2018,CPS_6_20180711_02,Flood,Mid-depth,Herrings and Shad,Clupeidae,PYS,9,8.789,8.789
+7/11/2018,CPS_6_20180711_02,Flood,Surface,Silversides,Menidia spp.,Egg,1,0.997,0.997
+7/11/2018,CPS_6_20180711_02,Flood,Surface,Silversides,Menidia spp.,PYS,2,1.994,1.994
+7/11/2018,CPS_6_20180711_02,Flood,Surface,Asian Clam,Corbicula fluminea,JUV,13,12.958,12.958
+7/11/2018,CPS_6_20180711_02,Flood,Surface,Herrings and Shad,Clupeidae,PYS,11,10.964,10.964
+7/30/2018,CPS_6_20180802_09,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,56,55.874,55.874
+7/30/2018,CPS_6_20180802_09,Ebb,Mid-depth,Common Sunfishes,Lepomis spp.,PYS,1,0.978,0.978
+7/30/2018,CPS_6_20180802_09,Ebb,Mid-depth,Asian Clam,Corbicula fluminea,JUV,7,6.846,6.846
+7/30/2018,CPS_6_20180802_09,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,1,0.978,0.978
+7/30/2018,CPS_6_20180802_09,Ebb,Surface,Asian Clam,Corbicula fluminea,JUV,9,8.878,8.878
+7/30/2018,CPS_6_20180802_16,Flood,Bottom,Common Sunfishes,Lepomis spp.,PYS,1,0.980,0.980
+7/30/2018,CPS_6_20180802_16,Flood,Bottom,Unidentified Finfish,Unidentified,UIDL,1,0.980,0.980
+7/30/2018,CPS_6_20180802_16,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,4,3.918,3.918
+7/30/2018,CPS_6_20180802_16,Flood,Mid-depth,Minnow,Cyprinidae,PYS,1,0.992,0.992
+7/30/2018,CPS_6_20180802_16,Flood,Surface,Silversides,Menidia spp.,Egg,1,0.994,0.994
+7/30/2018,CPS_6_20180802_20,Flood,Bottom,Minnow,Cyprinidae,PYS,3,2.808,2.808
+7/30/2018,CPS_6_20180802_20,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,24,22.460,22.460
+7/30/2018,CPS_6_20180802_20,Flood,Mid-depth,Minnow,Cyprinidae,PYS,14,13.140,13.140
+7/30/2018,CPS_6_20180802_20,Flood,Mid-depth,Asian Clam,Corbicula fluminea,JUV,38,35.665,35.665
+7/30/2018,CPS_6_20180802_20,Flood,Surface,Alewife,Alosa pseudoharengus,JUV,1,0.974,0.974
+7/30/2018,CPS_6_20180802_20,Flood,Surface,Alewife,Alosa pseudoharengus,Adult,1,0.974,0.974
+7/30/2018,CPS_6_20180802_20,Flood,Surface,Minnow,Cyprinidae,PYS,28,27.276,27.276
+7/30/2018,CPS_6_20180802_20,Flood,Surface,Asian Clam,Corbicula fluminea,JUV,17,16.561,16.561
+7/30/2018,CPS_6_20180802_20,Flood,Surface,Carpsuckers,Carpiodes,YS,1,0.974,0.974
+7/30/2018,CPS_6_20180802_20,Flood,Surface,Carpsuckers,Carpiodes,PYS,3,2.922,2.922
+7/31/2018,CPS_6_20180803_03,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,5,3.863,3.863
+7/31/2018,CPS_6_20180803_03,Flood,Mid-depth,Blue Catfish,Ictalurus furcatus,JUV,1,0.988,0.988
+7/31/2018,CPS_6_20180803_03,Flood,Mid-depth,Spottail Shiner,Notropis hudsonius,Adult,1,0.988,0.572
+7/31/2018,CPS_6_20180803_03,Flood,Mid-depth,Tessellated Darter,Etheostoma olmstedi,JUV,1,0.988,0.988
+7/31/2018,CPS_6_20180803_03,Flood,Mid-depth,Asian Clam,Corbicula fluminea,JUV,4,3.954,3.954
+7/31/2018,CPS_6_20180803_03,Flood,Surface,Alewife,Alosa pseudoharengus,JUV,1,0.765,0.765
+7/31/2018,CPS_6_20180803_03,Flood,Surface,Common Sunfishes,Lepomis spp.,PYS,1,0.765,0.765
+7/31/2018,CPS_6_20180803_03,Flood,Surface,Minnow,Cyprinidae,PYS,2,1.531,1.531
+7/31/2018,CPS_6_20180803_03,Flood,Surface,Sunfish,Centrarchidae,PYS,1,0.765,0.765
+8/7/2018,CPS_6_20180807_09,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,2,1.973,1.973
+8/7/2018,CPS_6_20180807_15,Ebb,Bottom,Flathead Catfish,Pylodictis olivaris,JUV,1,0.992,0.992
+8/7/2018,CPS_6_20180807_15,Ebb,Mid-depth,Asian Clam,Corbicula fluminea,JUV,1,0.995,0.995
+8/7/2018,CPS_6_20180807_22,Flood,Bottom,Blueback Herring,Alosa aestivalis,JUV,2,1.973,1.973
+8/7/2018,CPS_6_20180807_22,Flood,Mid-depth,Blueback Herring,Alosa aestivalis,JUV,6,5.782,5.782
+8/7/2018,CPS_6_20180807_22,Flood,Mid-depth,White Perch,Morone americana,JUV,1,0.964,0.161
+8/7/2018,CPS_6_20180807_22,Flood,Surface,American Eel,Anguilla rostrata,JUV,1,0.990,0.990
+8/7/2018,CPS_6_20180807_22,Flood,Surface,Bay Anchovy,Anchoa mitchilli,JUV,2,1.979,1.979
+8/7/2018,CPS_6_20180807_22,Flood,Surface,Blueback Herring,Alosa aestivalis,JUV,5,4.948,4.948
+8/7/2018,CPS_6_20180807_22,Flood,Surface,White Perch,Morone americana,JUV,1,0.990,0.165
+8/8/2018,CPS_6_20180808_03,Ebb,Mid-depth,Blueback Herring,Alosa aestivalis,JUV,1,0.997,0.997
+8/8/2018,CPS_6_20180808_03,Ebb,Mid-depth,Eastern Shiners,Notropis,PYS,1,0.997,0.997
+8/8/2018,CPS_6_20180808_03,Ebb,Surface,Blueback Herring,Alosa aestivalis,JUV,2,1.993,1.993
+8/8/2018,CPS_6_20180808_03,Ebb,Surface,Minnow,Cyprinidae,PYS,1,0.997,0.997
+8/8/2018,CPS_6_20180808_03,Ebb,Surface,Asian Clam,Corbicula fluminea,JUV,1,0.997,0.997
+8/8/2018,CPS_6_20180808_03,Ebb,Surface,Forktail Catfishes,Ictalurus sp.,PYS,1,0.997,0.997
+8/21/2018,CPS_6_20180821_09,Flood,Mid-depth,Herrings and Shad,Clupeidae,PYS,1,0.994,0.994
+8/21/2018,CPS_6_20180821_15,Ebb,Surface,Silversides,Menidia spp.,Egg,1,0.995,0.995
+8/21/2018,CPS_6_20180821_15,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,1,0.995,0.995
+8/21/2018,CPS_6_20180821_21,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,2,1.988,1.988
+8/21/2018,CPS_6_20180821_21,Flood,Mid-depth,Asian Clam,Corbicula fluminea,JUV,1,0.990,0.990
+8/21/2018,CPS_6_20180821_21,Flood,Surface,Herrings and Shad,Clupeidae,PYS,1,0.996,0.996
+8/22/2018,CPS_6_20180822_03,Ebb,Mid-depth,Bay Anchovy,Anchoa mitchilli,JUV,1,0.996,0.996
+1/16/2019,CPS_6_20190116_15,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,1,0.991,0.991
+1/16/2019,CPS_6_20190116_15,Ebb,Bottom,Fingernail/Pea Clams,Pisidiidae,JUV,1,0.991,0.991
+1/17/2019,CPS_6_20190117_03,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,1,0.997,0.997
+1/17/2019,CPS_6_20190117_09,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,1,0.992,0.992
+1/30/2019,CPS_6_20190205_10,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,1,0.995,0.995
+1/31/2019,CPS_6_20190206_02,Flood,Mid-depth,American Eel,Anguilla rostrata,JUV,1,0.974,0.974
+1/31/2019,CPS_6_20190206_02,Flood,Surface,American Eel,Anguilla rostrata,JUV,1,0.992,0.992
+2/12/2019,CPS_6_20190212_09,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,1,0.994,0.994
+2/12/2019,CPS_6_20190212_15,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,1,0.996,0.996
+2/12/2019,CPS_6_20190212_21,Flood,Surface,American Eel,Anguilla rostrata,JUV,1,0.991,0.991
+2/19/2019,CPS_6_20190219_09,Ebb,Mid-depth,Asian Clam,Corbicula fluminea,JUV,1,0.997,0.997
+2/19/2019,CPS_6_20190219_21,Ebb,Bottom,Spottail Shiner,Notropis hudsonius,Adult,1,0.979,0.567
+3/20/2019,CPS_6_20190320_10,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,324,318.126,318.126
+3/20/2019,CPS_6_20190320_10,Ebb,Mid-depth,Asian Clam,Corbicula fluminea,JUV,2,1.977,1.977
+3/20/2019,CPS_6_20190320_15,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,20,19.878,19.878
+3/20/2019,CPS_6_20190320_21,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,37,36.847,36.847
+3/20/2019,CPS_6_20190320_21,Ebb,Mid-depth,American Eel,Anguilla rostrata,JUV,1,0.983,0.983
+3/20/2019,CPS_6_20190320_21,Ebb,Mid-depth,Asian Clam,Corbicula fluminea,JUV,9,8.850,8.850
+3/20/2019,CPS_6_20190320_21,Ebb,Surface,Asian Clam,Corbicula fluminea,JUV,6,5.974,5.974
+3/21/2019,CPS_6_20190321_03,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,42,41.896,41.896
+3/21/2019,CPS_6_20190321_03,Flood,Mid-depth,American Eel,Anguilla rostrata,JUV,1,0.935,0.935
+3/21/2019,CPS_6_20190321_03,Flood,Mid-depth,Asian Clam,Corbicula fluminea,JUV,3,2.806,2.806
+4/17/2019,CPS_6_20190417_09,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,49,47.910,47.910
+4/17/2019,CPS_6_20190417_09,Ebb,Bottom,Darters,Etheostoma spp.,YS,1,0.978,0.978
+4/17/2019,CPS_6_20190417_09,Ebb,Bottom,Darters,Etheostoma spp.,PYS,2,1.956,1.956
+4/17/2019,CPS_6_20190417_09,Ebb,Mid-depth,River Herrings,Alosa spp.,PYS,1,0.995,0.995
+4/17/2019,CPS_6_20190417_09,Ebb,Mid-depth,Unidentified Finfish,Unidentified,UIDL,1,0.995,0.995
+4/17/2019,CPS_6_20190417_09,Ebb,Mid-depth,White Perch,Morone americana,Egg,1,0.995,0.995
+4/17/2019,CPS_6_20190417_09,Ebb,Mid-depth,Darters,Etheostoma spp.,YS,3,2.985,2.985
+4/17/2019,CPS_6_20190417_09,Ebb,Mid-depth,Darters,Etheostoma spp.,PYS,8,7.959,7.959
+4/17/2019,CPS_6_20190417_09,Ebb,Mid-depth,Eastern Shiners,Notropis,PYS,3,2.985,2.985
+4/17/2019,CPS_6_20190417_09,Ebb,Surface,Minnow,Cyprinidae,PYS,2,1.991,1.991
+4/17/2019,CPS_6_20190417_09,Ebb,Surface,River Herrings,Alosa spp.,YS,1,0.996,0.996
+4/17/2019,CPS_6_20190417_09,Ebb,Surface,River Herrings,Alosa spp.,PYS,1,0.996,0.996
+4/17/2019,CPS_6_20190417_09,Ebb,Surface,Yellow Perch,Perca flavescens,YS,1,0.996,0.996
+4/17/2019,CPS_6_20190417_09,Ebb,Surface,Yellow Perch,Perca flavescens,PYS,1,0.996,0.996
+4/17/2019,CPS_6_20190417_09,Ebb,Surface,Asian Clam,Corbicula fluminea,JUV,5,4.978,4.978
+4/17/2019,CPS_6_20190417_09,Ebb,Surface,Darters,Etheostoma spp.,YS,1,0.996,0.996
+4/17/2019,CPS_6_20190417_09,Ebb,Surface,Darters,Etheostoma spp.,PYS,5,4.978,4.978
+4/17/2019,CPS_6_20190417_09,Ebb,Surface,Eastern Shiners,Notropis,PYS,1,0.996,0.996
+4/17/2019,CPS_6_20190417_15,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,28,27.461,27.461
+4/17/2019,CPS_6_20190417_15,Flood,Bottom,Darters,Etheostoma spp.,YS,1,0.981,0.981
+4/17/2019,CPS_6_20190417_15,Flood,Bottom,Darters,Etheostoma spp.,PYS,1,0.981,0.981
+4/17/2019,CPS_6_20190417_15,Flood,Bottom,Eastern Shiners,Notropis,YS,3,2.942,2.942
+4/17/2019,CPS_6_20190417_15,Flood,Bottom,Eastern Shiners,Notropis,PYS,1,0.981,0.981
+4/17/2019,CPS_6_20190417_15,Flood,Mid-depth,Darters,Etheostoma spp.,PYS,1,0.996,0.996
+4/17/2019,CPS_6_20190417_15,Flood,Surface,Yellow Perch,Perca flavescens,YS,1,0.995,0.995
+4/17/2019,CPS_6_20190417_15,Flood,Surface,Yellow Perch,Perca flavescens,PYS,1,0.995,0.995
+4/17/2019,CPS_6_20190417_15,Flood,Surface,Asian Clam,Corbicula fluminea,JUV,5,4.973,4.973
+4/17/2019,CPS_6_20190417_15,Flood,Surface,Darters,Etheostoma spp.,YS,7,6.962,6.962
+4/17/2019,CPS_6_20190417_15,Flood,Surface,Darters,Etheostoma spp.,PYS,4,3.978,3.978
+4/17/2019,CPS_6_20190417_15,Flood,Surface,Perches,Percidae,YS,1,0.995,0.995
+4/17/2019,CPS_6_20190417_21,Ebb,Bottom,American Eel,Anguilla rostrata,JUV,1,0.969,0.969
+4/17/2019,CPS_6_20190417_21,Ebb,Bottom,Minnow,Cyprinidae,PYS,1,0.969,0.969
+4/17/2019,CPS_6_20190417_21,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,1,0.969,0.969
+4/17/2019,CPS_6_20190417_21,Ebb,Bottom,Darters,Etheostoma spp.,YS,1,0.969,0.969
+4/17/2019,CPS_6_20190417_21,Ebb,Bottom,Eastern Shiners,Notropis,PYS,1,0.969,0.969
+4/17/2019,CPS_6_20190417_21,Ebb,Mid-depth,River Herrings,Alosa spp.,Egg,3,2.663,2.663
+4/17/2019,CPS_6_20190417_21,Ebb,Mid-depth,White Perch,Morone americana,Egg,3,2.663,2.663
+4/17/2019,CPS_6_20190417_21,Ebb,Mid-depth,Asian Clam,Corbicula fluminea,JUV,2,1.997,1.997
+4/17/2019,CPS_6_20190417_21,Ebb,Mid-depth,Darters,Etheostoma spp.,YS,8,7.988,7.988
+4/17/2019,CPS_6_20190417_21,Ebb,Mid-depth,Darters,Etheostoma spp.,PYS,3,2.995,2.995
+4/17/2019,CPS_6_20190417_21,Ebb,Mid-depth,Eastern Shiners,Notropis,PYS,2,1.997,1.997
+4/17/2019,CPS_6_20190417_21,Ebb,Surface,Minnow,Cyprinidae,YS,1,0.998,0.998
+4/17/2019,CPS_6_20190417_21,Ebb,Surface,Minnow,Cyprinidae,PYS,1,0.998,0.998
+4/17/2019,CPS_6_20190417_21,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,1,0.998,0.998
+4/17/2019,CPS_6_20190417_21,Ebb,Surface,Darters,Etheostoma spp.,YS,6,5.986,5.986
+4/17/2019,CPS_6_20190417_21,Ebb,Surface,Darters,Etheostoma spp.,PYS,6,5.986,5.986
+4/18/2019,CPS_6_20190418_03,Flood,Bottom,Darters,Etheostoma spp.,PYS,1,0.938,0.938
+4/18/2019,CPS_6_20190418_03,Flood,Surface,Minnow,Cyprinidae,YS,1,0.963,0.963
+4/18/2019,CPS_6_20190418_03,Flood,Surface,Minnow,Cyprinidae,PYS,3,2.889,2.889
+4/18/2019,CPS_6_20190418_03,Flood,Surface,Asian Clam,Corbicula fluminea,JUV,1,0.963,0.963
+4/18/2019,CPS_6_20190418_03,Flood,Surface,Darters,Etheostoma spp.,YS,2,1.926,1.926
+4/18/2019,CPS_6_20190418_03,Flood,Surface,Darters,Etheostoma spp.,PYS,1,0.963,0.963
+4/29/2019,CPS_4_20190429_11,Flood,Bottom,White Perch,Morone americana,Egg,7,6.990,6.990
+4/29/2019,CPS_4_20190429_11,Flood,Bottom,White Perch,Morone americana,YS,34,33.953,33.953
+4/29/2019,CPS_4_20190429_11,Flood,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,43,42.940,42.940
+4/29/2019,CPS_4_20190429_11,Flood,Bottom,Gizzard Shad,Dorosoma cepedianum,YS,33,32.954,32.954
+4/29/2019,CPS_4_20190429_11,Flood,Bottom,Herrings and Shad,Clupeidae,YS,21,20.971,20.971
+4/29/2019,CPS_4_20190429_11,Flood,Bottom,Herrings and Shad,Clupeidae,PYS,181,180.748,180.748
+4/29/2019,CPS_4_20190429_11,Flood,Mid-depth,Unidentified Finfish,Unidentified,UIDL,1,0.991,0.991
+4/29/2019,CPS_4_20190429_11,Flood,Mid-depth,White Perch,Morone americana,Egg,1,0.991,0.991
+4/29/2019,CPS_4_20190429_11,Flood,Mid-depth,White Perch,Morone americana,YS,5,4.954,4.954
+4/29/2019,CPS_4_20190429_11,Flood,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,3,2.973,2.973
+4/29/2019,CPS_4_20190429_11,Flood,Mid-depth,Herrings and Shad,Clupeidae,Egg,4,3.963,3.963
+4/29/2019,CPS_4_20190429_11,Flood,Mid-depth,Herrings and Shad,Clupeidae,PYS,46,45.579,45.579
+4/29/2019,CPS_4_20190429_11,Flood,Surface,Minnow,Cyprinidae,PYS,3,2.977,2.977
+4/29/2019,CPS_4_20190429_11,Flood,Surface,Gizzard Shad,Dorosoma cepedianum,YS,2,1.985,1.985
+4/29/2019,CPS_4_20190429_11,Flood,Surface,Herrings and Shad,Clupeidae,PYS,33,32.746,32.746
+4/29/2019,CPS_4_20190429_11,Flood,Surface,Eastern Shiners,Notropis,PYS,3,2.977,2.977
+4/29/2019,CPS_4_20190429_15,Ebb,Bottom,Minnow,Cyprinidae,YS,4,3.994,3.994
+4/29/2019,CPS_4_20190429_15,Ebb,Bottom,White Perch,Morone americana,Egg,26,25.960,25.960
+4/29/2019,CPS_4_20190429_15,Ebb,Bottom,White Perch,Morone americana,YS,12,11.981,11.981
+4/29/2019,CPS_4_20190429_15,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,1,0.998,0.998
+4/29/2019,CPS_4_20190429_15,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,4,3.994,3.994
+4/29/2019,CPS_4_20190429_15,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,YS,32,31.951,31.951
+4/29/2019,CPS_4_20190429_15,Ebb,Bottom,Herrings and Shad,Clupeidae,PYS,748,746.847,746.847
+4/29/2019,CPS_4_20190429_15,Ebb,Mid-depth,Minnow,Cyprinidae,YS,1,0.997,0.997
+4/29/2019,CPS_4_20190429_15,Ebb,Mid-depth,Minnow,Cyprinidae,PYS,5,4.983,4.983
+4/29/2019,CPS_4_20190429_15,Ebb,Mid-depth,White Perch,Morone americana,Egg,10,9.967,9.967
+4/29/2019,CPS_4_20190429_15,Ebb,Mid-depth,White Perch,Morone americana,YS,8,7.973,7.973
+4/29/2019,CPS_4_20190429_15,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,2,1.993,1.993
+4/29/2019,CPS_4_20190429_15,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,YS,57,56.809,56.809
+4/29/2019,CPS_4_20190429_15,Ebb,Mid-depth,Herrings and Shad,Clupeidae,YS,13,12.956,12.956
+4/29/2019,CPS_4_20190429_15,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,237,236.206,236.206
+4/29/2019,CPS_4_20190429_15,Ebb,Surface,Minnow,Cyprinidae,PYS,4,3.964,3.964
+4/29/2019,CPS_4_20190429_15,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,408,404.315,404.315
+4/29/2019,CPS_4_20190429_22,Flood,Bottom,Minnow,Cyprinidae,YS,2,1.998,1.998
+4/29/2019,CPS_4_20190429_22,Flood,Bottom,White Perch,Morone americana,YS,50,49.961,49.961
+4/29/2019,CPS_4_20190429_22,Flood,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,9,8.993,8.993
+4/29/2019,CPS_4_20190429_22,Flood,Bottom,Gizzard Shad,Dorosoma cepedianum,YS,30,29.976,29.976
+4/29/2019,CPS_4_20190429_22,Flood,Bottom,Herrings and Shad,Clupeidae,PYS,422,421.668,421.668
+4/29/2019,CPS_4_20190429_22,Flood,Mid-depth,Minnow,Cyprinidae,PYS,4,3.997,3.997
+4/29/2019,CPS_4_20190429_22,Flood,Mid-depth,White Perch,Morone americana,YS,42,41.973,41.973
+4/29/2019,CPS_4_20190429_22,Flood,Mid-depth,Gizzard Shad,Dorosoma cepedianum,YS,42,41.973,41.973
+4/29/2019,CPS_4_20190429_22,Flood,Mid-depth,Herrings and Shad,Clupeidae,YS,4,3.997,3.997
+4/29/2019,CPS_4_20190429_22,Flood,Mid-depth,Herrings and Shad,Clupeidae,PYS,466,465.704,465.704
+4/29/2019,CPS_4_20190429_22,Flood,Surface,Minnow,Cyprinidae,YS,5,4.507,4.507
+4/29/2019,CPS_4_20190429_22,Flood,Surface,Minnow,Cyprinidae,PYS,8,7.211,7.211
+4/29/2019,CPS_4_20190429_22,Flood,Surface,Unidentified Finfish,Unidentified,UIDL,1,0.901,0.901
+4/29/2019,CPS_4_20190429_22,Flood,Surface,White Perch,Morone americana,YS,5,4.507,4.507
+4/29/2019,CPS_4_20190429_22,Flood,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,725,653.768,653.768
+4/29/2019,CPS_4_20190429_22,Flood,Surface,Darters,Etheostoma spp.,YS,1,0.901,0.901
+4/29/2019,CPS_4_20190429_22,Flood,Surface,Darters,Etheostoma spp.,PYS,1,0.901,0.901
+4/29/2019,CPS_4_20190429_22,Flood,Surface,Herrings and Shad,Clupeidae,PYS,44,39.659,39.659
+4/29/2019,CPS_4_20190429_22,Flood,Surface,Carpsuckers,Carpiodes,YS,1,0.901,0.901
+4/29/2019,CPS_4_20190429_22,Flood,Surface,Carpsuckers,Carpiodes,PYS,1,0.901,0.901
+4/30/2019,CPS_4_20190430_03,Ebb,Bottom,Minnow,Cyprinidae,YS,1,0.946,0.946
+4/30/2019,CPS_4_20190430_03,Ebb,Bottom,Minnow,Cyprinidae,PYS,1,0.946,0.946
+4/30/2019,CPS_4_20190430_03,Ebb,Bottom,White Perch,Morone americana,Egg,85,80.732,80.732
+4/30/2019,CPS_4_20190430_03,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,2,1.892,1.892
+4/30/2019,CPS_4_20190430_03,Ebb,Bottom,Darters,Etheostoma spp.,YS,1,0.946,0.946
+4/30/2019,CPS_4_20190430_03,Ebb,Bottom,Darters,Etheostoma spp.,PYS,1,0.946,0.946
+4/30/2019,CPS_4_20190430_03,Ebb,Bottom,Herrings and Shad,Clupeidae,PYS,43,40.681,40.681
+4/30/2019,CPS_4_20190430_03,Ebb,Mid-depth,Minnow,Cyprinidae,PYS,2,1.945,1.945
+4/30/2019,CPS_4_20190430_03,Ebb,Mid-depth,White Perch,Morone americana,Egg,20,19.449,19.449
+4/30/2019,CPS_4_20190430_03,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,12,11.669,11.669
+4/30/2019,CPS_4_20190430_03,Ebb,Surface,Minnow,Cyprinidae,YS,2,1.990,1.990
+4/30/2019,CPS_4_20190430_03,Ebb,Surface,Minnow,Cyprinidae,PYS,70,69.658,69.658
+4/30/2019,CPS_4_20190430_03,Ebb,Surface,White Perch,Morone americana,YS,4,3.980,3.980
+4/30/2019,CPS_4_20190430_03,Ebb,Surface,Darters,Etheostoma spp.,PYS,4,3.980,3.980
+4/30/2019,CPS_4_20190430_03,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,286,284.602,284.602
+4/30/2019,CPS_4_20190430_03,Ebb,Surface,Carpsuckers,Carpiodes,PYS,2,1.990,1.990
+5/7/2019,CPS_4_20190507_08,Ebb,Bottom,Common Sunfishes,Lepomis spp.,PYS,2,1.992,1.992
+5/7/2019,CPS_4_20190507_08,Ebb,Bottom,Minnow,Cyprinidae,PYS,1,0.996,0.996
+5/7/2019,CPS_4_20190507_08,Ebb,Bottom,White Perch,Morone americana,Egg,12,11.951,11.951
+5/7/2019,CPS_4_20190507_08,Ebb,Bottom,Herrings and Shad,Clupeidae,PYS,65,64.733,64.733
+5/7/2019,CPS_4_20190507_08,Ebb,Mid-depth,Common Sunfishes,Lepomis spp.,PYS,1,0.998,0.998
+5/7/2019,CPS_4_20190507_08,Ebb,Mid-depth,Minnow,Cyprinidae,PYS,1,0.998,0.998
+5/7/2019,CPS_4_20190507_08,Ebb,Mid-depth,Darters,Etheostoma spp.,YS,1,0.998,0.998
+5/7/2019,CPS_4_20190507_08,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,46,45.907,45.907
+5/7/2019,CPS_4_20190507_08,Ebb,Surface,Common Sunfishes,Lepomis spp.,YS,1,0.998,0.998
+5/7/2019,CPS_4_20190507_08,Ebb,Surface,Common Sunfishes,Lepomis spp.,PYS,1,0.998,0.998
+5/7/2019,CPS_4_20190507_08,Ebb,Surface,Minnow,Cyprinidae,PYS,2,1.997,1.997
+5/7/2019,CPS_4_20190507_08,Ebb,Surface,Unidentified Finfish,Unidentified,UIDL,1,0.998,0.998
+5/7/2019,CPS_4_20190507_08,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,YS,2,1.997,1.997
+5/7/2019,CPS_4_20190507_08,Ebb,Surface,Sunfish,Centrarchidae,PYS,1,0.998,0.998
+5/7/2019,CPS_4_20190507_08,Ebb,Surface,Darters,Etheostoma spp.,PYS,1,0.998,0.998
+5/7/2019,CPS_4_20190507_08,Ebb,Surface,Herrings and Shad,Clupeidae,YS,1,0.998,0.998
+5/7/2019,CPS_4_20190507_08,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,132,131.792,131.792
+5/7/2019,CPS_4_20190507_15,Flood,Bottom,Minnow,Cyprinidae,YS,11,10.645,10.645
+5/7/2019,CPS_4_20190507_15,Flood,Bottom,Minnow,Cyprinidae,PYS,21,21.290,21.290
+5/7/2019,CPS_4_20190507_15,Flood,Bottom,White Perch,Morone americana,YS,21,21.290,21.290
+5/7/2019,CPS_4_20190507_15,Flood,Bottom,Herrings and Shad,Clupeidae,PYS,3072,3065.758,3065.758
+5/7/2019,CPS_4_20190507_15,Flood,Mid-depth,Minnow,Cyprinidae,PYS,16,15.982,15.982
+5/7/2019,CPS_4_20190507_15,Flood,Mid-depth,White Perch,Morone americana,Egg,5,5.327,5.327
+5/7/2019,CPS_4_20190507_15,Flood,Mid-depth,White Perch,Morone americana,YS,32,31.964,31.964
+5/7/2019,CPS_4_20190507_15,Flood,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,3,2.664,2.664
+5/7/2019,CPS_4_20190507_15,Flood,Mid-depth,Gizzard Shad,Dorosoma cepedianum,YS,72,71.919,71.919
+5/7/2019,CPS_4_20190507_15,Flood,Mid-depth,Herrings and Shad,Clupeidae,Egg,3,2.664,2.664
+5/7/2019,CPS_4_20190507_15,Flood,Mid-depth,Herrings and Shad,Clupeidae,PYS,2520,2517.161,2517.161
+5/7/2019,CPS_4_20190507_15,Flood,Mid-depth,Eastern Shiners,Notropis,PYS,8,7.991,7.991
+5/7/2019,CPS_4_20190507_15,Flood,Surface,Minnow,Cyprinidae,PYS,8,7.920,7.920
+5/7/2019,CPS_4_20190507_15,Flood,Surface,White Perch,Morone americana,Egg,5,5.280,5.280
+5/7/2019,CPS_4_20190507_15,Flood,Surface,White Perch,Morone americana,YS,36,35.639,35.639
+5/7/2019,CPS_4_20190507_15,Flood,Surface,Gizzard Shad,Dorosoma cepedianum,YS,24,23.759,23.759
+5/7/2019,CPS_4_20190507_15,Flood,Surface,Herrings and Shad,Clupeidae,YS,4,3.960,3.960
+5/7/2019,CPS_4_20190507_15,Flood,Surface,Herrings and Shad,Clupeidae,PYS,1372,1358.232,1358.232
+5/7/2019,CPS_4_20190507_20,Ebb,Bottom,Minnow,Cyprinidae,PYS,120,119.458,119.458
+5/7/2019,CPS_4_20190507_20,Ebb,Bottom,Unidentified Finfish,Unidentified,UIDL,16,15.928,15.928
+5/7/2019,CPS_4_20190507_20,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,80,79.639,79.639
+5/7/2019,CPS_4_20190507_20,Ebb,Bottom,Darters,Etheostoma spp.,YS,40,39.819,39.819
+5/7/2019,CPS_4_20190507_20,Ebb,Bottom,Darters,Etheostoma spp.,PYS,8,7.964,7.964
+5/7/2019,CPS_4_20190507_20,Ebb,Bottom,Herrings and Shad,Clupeidae,PYS,1136,1130.872,1130.872
+5/7/2019,CPS_4_20190507_20,Ebb,Bottom,Carpsuckers,Carpiodes,PYS,128,127.422,127.422
+5/7/2019,CPS_4_20190507_20,Ebb,Mid-depth,Minnow,Cyprinidae,PYS,40,39.875,39.875
+5/7/2019,CPS_4_20190507_20,Ebb,Mid-depth,Asian Clam,Corbicula fluminea,JUV,6,5.981,5.981
+5/7/2019,CPS_4_20190507_20,Ebb,Mid-depth,Carpsuckers,Carpiodes,PYS,16,15.950,15.950
+5/7/2019,CPS_4_20190507_20,Ebb,Surface,Minnow,Cyprinidae,PYS,64,63.603,63.603
+5/7/2019,CPS_4_20190507_20,Ebb,Surface,Sucker,Catostomidae,YS,16,15.901,15.901
+5/7/2019,CPS_4_20190507_20,Ebb,Surface,Asian Clam,Corbicula fluminea,JUV,7,6.957,6.957
+5/7/2019,CPS_4_20190507_20,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,2672,2655.436,2655.436
+5/7/2019,CPS_4_20190507_20,Ebb,Surface,Carpsuckers,Carpiodes,YS,128,127.206,127.206
+5/7/2019,CPS_4_20190507_20,Ebb,Surface,Carpsuckers,Carpiodes,PYS,16,15.901,15.901
+5/8/2019,CPS_4_20190508_03,Flood,Bottom,Minnow,Cyprinidae,PYS,32,31.842,31.842
+5/8/2019,CPS_4_20190508_03,Flood,Bottom,Unidentified Finfish,Unidentified,UIDL,5,5.307,5.307
+5/8/2019,CPS_4_20190508_03,Flood,Bottom,White Perch,Morone americana,Egg,8,7.961,7.961
+5/8/2019,CPS_4_20190508_03,Flood,Bottom,White Perch,Morone americana,YS,21,21.228,21.228
+5/8/2019,CPS_4_20190508_03,Flood,Bottom,Gizzard Shad,Dorosoma cepedianum,YS,11,10.614,10.614
+5/8/2019,CPS_4_20190508_03,Flood,Bottom,Darters,Etheostoma spp.,YS,16,15.921,15.921
+5/8/2019,CPS_4_20190508_03,Flood,Bottom,Herrings and Shad,Clupeidae,PYS,1179,1172.860,1172.860
+5/8/2019,CPS_4_20190508_03,Flood,Bottom,Carpsuckers,Carpiodes,PYS,5,5.307,5.307
+5/8/2019,CPS_4_20190508_03,Flood,Mid-depth,Minnow,Cyprinidae,YS,8,7.976,7.976
+5/8/2019,CPS_4_20190508_03,Flood,Mid-depth,Minnow,Cyprinidae,PYS,4,3.988,3.988
+5/8/2019,CPS_4_20190508_03,Flood,Mid-depth,White Perch,Morone americana,Egg,304,303.085,303.085
+5/8/2019,CPS_4_20190508_03,Flood,Mid-depth,White Perch,Morone americana,YS,20,19.940,19.940
+5/8/2019,CPS_4_20190508_03,Flood,Mid-depth,Gizzard Shad,Dorosoma cepedianum,YS,24,23.928,23.928
+5/8/2019,CPS_4_20190508_03,Flood,Mid-depth,Darters,Etheostoma spp.,YS,8,7.976,7.976
+5/8/2019,CPS_4_20190508_03,Flood,Mid-depth,Herrings and Shad,Clupeidae,PYS,624,622.121,622.121
+5/8/2019,CPS_4_20190508_03,Flood,Mid-depth,Carpsuckers,Carpiodes,YS,12,11.964,11.964
+5/8/2019,CPS_4_20190508_03,Flood,Mid-depth,Carpsuckers,Carpiodes,PYS,8,7.976,7.976
+5/8/2019,CPS_4_20190508_03,Flood,Surface,Minnow,Cyprinidae,YS,4,3.852,3.852
+5/8/2019,CPS_4_20190508_03,Flood,Surface,Minnow,Cyprinidae,PYS,8,7.704,7.704
+5/8/2019,CPS_4_20190508_03,Flood,Surface,White Perch,Morone americana,Egg,432,416.034,416.034
+5/8/2019,CPS_4_20190508_03,Flood,Surface,White Perch,Morone americana,YS,60,57.783,57.783
+5/8/2019,CPS_4_20190508_03,Flood,Surface,Gizzard Shad,Dorosoma cepedianum,YS,12,11.557,11.557
+5/8/2019,CPS_4_20190508_03,Flood,Surface,Darters,Etheostoma spp.,YS,4,3.852,3.852
+5/8/2019,CPS_4_20190508_03,Flood,Surface,Herrings and Shad,Clupeidae,PYS,612,589.382,589.382
+5/8/2019,CPS_4_20190508_03,Flood,Surface,Carpsuckers,Carpiodes,YS,12,11.557,11.557
+5/8/2019,CPS_4_20190508_03,Flood,Surface,Carpsuckers,Carpiodes,PYS,20,19.261,19.261
+5/21/2019,CPS_4_20190521_09,Ebb,Bottom,Common Sunfishes,Lepomis spp.,PYS,4,3.994,3.994
+5/21/2019,CPS_4_20190521_09,Ebb,Bottom,Herrings and Shad,Clupeidae,PYS,732,730.871,730.871
+5/21/2019,CPS_4_20190521_09,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,2000,1994.806,1994.806
+5/21/2019,CPS_4_20190521_09,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,1576,1571.432,1571.432
+5/21/2019,CPS_4_20190521_15,Flood,Bottom,Herrings and Shad,Clupeidae,PYS,9472,9439.559,9439.559
+5/21/2019,CPS_4_20190521_15,Flood,Mid-depth,Herrings and Shad,Clupeidae,PYS,1173,1169.006,1169.006
+5/21/2019,CPS_4_20190521_15,Flood,Surface,Minnow,Cyprinidae,YS,8,7.962,7.962
+5/21/2019,CPS_4_20190521_15,Flood,Surface,Tessellated Darter,Etheostoma olmstedi,JUV,8,7.962,7.962
+5/21/2019,CPS_4_20190521_15,Flood,Surface,Herrings and Shad,Clupeidae,PYS,1832,1823.249,1823.249
+5/21/2019,CPS_4_20190521_21,Ebb,Bottom,Minnow,Cyprinidae,PYS,8,7.438,7.438
+5/21/2019,CPS_4_20190521_21,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,YS,8,7.438,7.438
+5/21/2019,CPS_4_20190521_21,Ebb,Bottom,Darters,Etheostoma spp.,YS,8,7.438,7.438
+5/21/2019,CPS_4_20190521_21,Ebb,Bottom,Herrings and Shad,Clupeidae,PYS,1528,1420.570,1420.570
+5/21/2019,CPS_4_20190521_21,Ebb,Mid-depth,Darters,Etheostoma spp.,YS,5,4.950,4.950
+5/21/2019,CPS_4_20190521_21,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,1104,1024.614,1024.614
+5/21/2019,CPS_4_20190521_21,Ebb,Surface,Asian Clam,Corbicula fluminea,JUV,2,1.853,1.853
+5/21/2019,CPS_4_20190521_21,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,192,177.919,177.919
+5/21/2019,CPS_4_20190521_21,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,YS,32,29.653,29.653
+5/21/2019,CPS_4_20190521_21,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,6240,5782.355,5782.355
+5/22/2019,CPS_4_20190522_04,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,2,1.982,1.982
+5/22/2019,CPS_4_20190522_04,Flood,Bottom,Herrings and Shad,Clupeidae,Egg,4,3.963,3.963
+5/22/2019,CPS_4_20190522_04,Flood,Bottom,Herrings and Shad,Clupeidae,PYS,5600,5548.585,5548.585
+5/22/2019,CPS_4_20190522_04,Flood,Bottom,Carpsuckers,Carpiodes,YS,16,15.853,15.853
+5/22/2019,CPS_4_20190522_04,Flood,Bottom,Carpsuckers,Carpiodes,PYS,16,15.853,15.853
+5/22/2019,CPS_4_20190522_04,Flood,Mid-depth,Asian Clam,Corbicula fluminea,JUV,7,6.435,6.435
+5/22/2019,CPS_4_20190522_04,Flood,Mid-depth,Herrings and Shad,Clupeidae,PYS,16160,14856.003,14856.003
+5/22/2019,CPS_4_20190522_04,Flood,Mid-depth,Carpsuckers,Carpiodes,PYS,96,88.253,88.253
+5/22/2019,CPS_4_20190522_04,Flood,Surface,Asian Clam,Corbicula fluminea,JUV,4,3.975,3.975
+5/22/2019,CPS_4_20190522_04,Flood,Surface,Herrings and Shad,Clupeidae,PYS,8288,8236.310,8236.310
+5/22/2019,CPS_4_20190522_04,Flood,Surface,Carpsuckers,Carpiodes,PYS,32,31.800,31.800
+6/6/2019,CPS_6_20190606_09,Ebb,Bottom,Tessellated Darter,Etheostoma olmstedi,JUV,1,0.997,0.997
+6/6/2019,CPS_6_20190606_09,Ebb,Bottom,Silversides,Menidia spp.,Egg,1,1.330,1.330
+6/6/2019,CPS_6_20190606_09,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,34,33.912,33.912
+6/6/2019,CPS_6_20190606_09,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,9,9.309,9.309
+6/6/2019,CPS_6_20190606_09,Ebb,Bottom,Herrings and Shad,Clupeidae,PYS,3,2.992,2.992
+6/6/2019,CPS_6_20190606_09,Ebb,Bottom,Fingernail/Pea Clams,Pisidiidae,JUV,17,16.956,16.956
+6/6/2019,CPS_6_20190606_09,Ebb,Mid-depth,Common Sunfishes,Lepomis spp.,PYS,7,6.956,6.956
+6/6/2019,CPS_6_20190606_09,Ebb,Mid-depth,Tessellated Darter,Etheostoma olmstedi,JUV,1,0.994,0.994
+6/6/2019,CPS_6_20190606_09,Ebb,Mid-depth,Unidentified Finfish,Unidentified,UIDL,1,0.994,0.994
+6/6/2019,CPS_6_20190606_09,Ebb,Mid-depth,Asian Clam,Corbicula fluminea,JUV,2,1.988,1.988
+6/6/2019,CPS_6_20190606_09,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,65,64.595,64.595
+6/6/2019,CPS_6_20190606_09,Ebb,Surface,Common Sunfishes,Lepomis spp.,PYS,7,6.646,6.646
+6/6/2019,CPS_6_20190606_09,Ebb,Surface,Unidentified Finfish,Unidentified,UIDL,2,1.899,1.899
+6/6/2019,CPS_6_20190606_09,Ebb,Surface,Silversides,Menidia spp.,PYS,2,1.899,1.899
+6/6/2019,CPS_6_20190606_09,Ebb,Surface,Asian Clam,Corbicula fluminea,JUV,2,1.899,1.899
+6/6/2019,CPS_6_20190606_09,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,4,3.798,3.798
+6/6/2019,CPS_6_20190606_09,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,4,3.798,3.798
+6/6/2019,CPS_6_20190606_15,Flood,Bottom,Unidentified Finfish,Unidentified,UIDL,1,0.989,0.989
+6/6/2019,CPS_6_20190606_15,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,26,25.724,25.724
+6/6/2019,CPS_6_20190606_15,Flood,Bottom,Herrings and Shad,Clupeidae,PYS,11,10.883,10.883
+6/6/2019,CPS_6_20190606_15,Flood,Mid-depth,Common Sunfishes,Lepomis spp.,PYS,2,1.981,1.981
+6/6/2019,CPS_6_20190606_15,Flood,Mid-depth,Tessellated Darter,Etheostoma olmstedi,JUV,2,1.981,1.981
+6/6/2019,CPS_6_20190606_15,Flood,Mid-depth,Silversides,Menidia spp.,Egg,2,1.981,1.981
+6/6/2019,CPS_6_20190606_15,Flood,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,1,0.991,0.991
+6/6/2019,CPS_6_20190606_15,Flood,Mid-depth,Darters,Etheostoma spp.,PYS,2,1.981,1.981
+6/6/2019,CPS_6_20190606_15,Flood,Mid-depth,Herrings and Shad,Clupeidae,PYS,414,410.137,410.137
+6/6/2019,CPS_6_20190606_15,Flood,Surface,Common Sunfishes,Lepomis spp.,PYS,8,7.629,7.629
+6/6/2019,CPS_6_20190606_15,Flood,Surface,Herrings and Shad,Clupeidae,PYS,1052,1003.246,1003.246
+6/6/2019,CPS_6_20190606_20,Ebb,Bottom,Tessellated Darter,Etheostoma olmstedi,JUV,2,1.960,1.960
+6/6/2019,CPS_6_20190606_20,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,19,18.620,18.620
+6/6/2019,CPS_6_20190606_20,Ebb,Mid-depth,Alewife,Alosa pseudoharengus,JUV,1,0.965,0.965
+6/6/2019,CPS_6_20190606_20,Ebb,Mid-depth,Spottail Shiner,Notropis hudsonius,JUV,1,0.965,0.965
+6/6/2019,CPS_6_20190606_20,Ebb,Mid-depth,Tessellated Darter,Etheostoma olmstedi,JUV,2,1.930,1.930
+6/6/2019,CPS_6_20190606_20,Ebb,Mid-depth,White Perch,Morone americana,PYS,10,9.650,9.650
+6/6/2019,CPS_6_20190606_20,Ebb,Mid-depth,Asian Clam,Corbicula fluminea,JUV,2,1.930,1.930
+6/6/2019,CPS_6_20190606_20,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,10,9.650,9.650
+6/6/2019,CPS_6_20190606_20,Ebb,Surface,Unidentified Finfish,Unidentified,UIDL,2,1.970,1.970
+6/6/2019,CPS_6_20190606_20,Ebb,Surface,White Perch,Morone americana,PYS,7,6.894,6.894
+6/6/2019,CPS_6_20190606_20,Ebb,Surface,White Perch,Morone americana,JUV,1,0.985,0.164
+6/6/2019,CPS_6_20190606_20,Ebb,Surface,Asian Clam,Corbicula fluminea,JUV,1,0.985,0.985
+6/7/2019,CPS_6_20190607_03,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,11,10.934,10.934
+6/7/2019,CPS_6_20190607_03,Flood,Bottom,Fingernail/Pea Clams,Pisidiidae,JUV,3,2.982,2.982
+6/7/2019,CPS_6_20190607_03,Flood,Mid-depth,Alewife,Alosa pseudoharengus,JUV,6,5.987,5.987
+6/7/2019,CPS_6_20190607_03,Flood,Mid-depth,Largemouth Bass,Micropterus salmoides,JUV,1,0.998,0.998
+6/7/2019,CPS_6_20190607_03,Flood,Mid-depth,Spottail Shiner,Notropis hudsonius,JUV,5,4.989,4.989
+6/7/2019,CPS_6_20190607_03,Flood,Mid-depth,Unidentified Finfish,Unidentified,UIDL,2,1.996,1.996
+6/7/2019,CPS_6_20190607_03,Flood,Mid-depth,Asian Clam,Corbicula fluminea,JUV,10,9.978,9.978
+6/7/2019,CPS_6_20190607_03,Flood,Mid-depth,Herrings and Shad,Clupeidae,PYS,4,3.991,3.991
+6/7/2019,CPS_6_20190607_03,Flood,Surface,Alewife,Alosa pseudoharengus,JUV,2,1.937,1.937
+6/7/2019,CPS_6_20190607_03,Flood,Surface,Common Sunfishes,Lepomis spp.,PYS,1,0.969,0.969
+6/7/2019,CPS_6_20190607_03,Flood,Surface,Striped Bass,Morone saxatilis,JUV,1,0.969,0.969
+6/7/2019,CPS_6_20190607_03,Flood,Surface,Unidentified Finfish,Unidentified,UIDL,4,3.874,3.874
+6/7/2019,CPS_6_20190607_03,Flood,Surface,Silversides,Menidia spp.,PYS,3,2.906,2.906
+6/7/2019,CPS_6_20190607_03,Flood,Surface,Silversides,Menidia spp.,JUV,1,0.969,0.969
+6/7/2019,CPS_6_20190607_03,Flood,Surface,Sunfish,Centrarchidae,PYS,1,0.969,0.969
+6/7/2019,CPS_6_20190607_03,Flood,Surface,Herrings and Shad,Clupeidae,PYS,3,2.906,2.906
+6/7/2019,CPS_6_20190607_03,Flood,Surface,Eastern Shiners,Notropis,PYS,1,0.969,0.969
+6/20/2019,CPS_6_20190620_09,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,1,0.984,0.984
+6/20/2019,CPS_6_20190620_09,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,19,18.699,18.699
+6/20/2019,CPS_6_20190620_09,Ebb,Bottom,Herrings and Shad,Clupeidae,PYS,28,27.556,27.556
+6/20/2019,CPS_6_20190620_09,Ebb,Bottom,Fingernail/Pea Clams,Pisidiidae,JUV,8,7.873,7.873
+6/20/2019,CPS_6_20190620_09,Ebb,Mid-depth,Silversides,Menidia spp.,Egg,2,1.849,1.849
+6/20/2019,CPS_6_20190620_09,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,1,0.924,0.924
+6/20/2019,CPS_6_20190620_09,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,145,134.036,134.036
+6/20/2019,CPS_6_20190620_09,Ebb,Surface,Silversides,Menidia spp.,Egg,1,0.895,0.895
+6/20/2019,CPS_6_20190620_09,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,7,6.263,6.263
+6/20/2019,CPS_6_20190620_15,Flood,Bottom,American Eel,Anguilla rostrata,Adult,1,0.995,0.000
+6/20/2019,CPS_6_20190620_15,Flood,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,12,11.944,11.944
+6/20/2019,CPS_6_20190620_15,Flood,Bottom,Flathead Catfish,Pylodictis olivaris,JUV,1,0.995,0.995
+6/20/2019,CPS_6_20190620_15,Flood,Bottom,Fingernail/Pea Clams,Pisidiidae,JUV,7,6.968,6.968
+6/20/2019,CPS_6_20190620_15,Flood,Mid-depth,Herrings and Shad,Clupeidae,PYS,5,4.414,4.414
+6/20/2019,CPS_6_20190620_21,Ebb,Bottom,Blue Catfish,Ictalurus furcatus,JUV,1,0.995,0.995
+6/20/2019,CPS_6_20190620_21,Ebb,Bottom,Tessellated Darter,Etheostoma olmstedi,Adult,1,0.995,0.995
+6/20/2019,CPS_6_20190620_21,Ebb,Bottom,Fingernail/Pea Clams,Pisidiidae,JUV,2,1.991,1.991
+6/20/2019,CPS_6_20190620_21,Ebb,Mid-depth,Alewife,Alosa pseudoharengus,JUV,3,2.939,2.939
+6/20/2019,CPS_6_20190620_21,Ebb,Mid-depth,Common Sunfishes,Lepomis spp.,PYS,1,0.980,0.980
+6/20/2019,CPS_6_20190620_21,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,2,1.959,1.959
+6/20/2019,CPS_6_20190620_21,Ebb,Surface,Alewife,Alosa pseudoharengus,JUV,4,3.977,3.977
+6/20/2019,CPS_6_20190620_21,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,2,1.988,1.988
+6/20/2019,CPS_6_20190620_21,Ebb,Surface,Herrings and Shad,Clupeidae,JUV,1,0.994,0.994
+6/20/2019,CPS_6_20190620_21,Ebb,Surface,Black Crappie,Pomoxis nigromaculatus,JUV,1,0.994,0.000
+6/21/2019,CPS_6_20190621_03,Flood,Bottom,Flathead Catfish,Pylodictis olivaris,JUV,1,0.997,0.997
+6/21/2019,CPS_6_20190621_03,Flood,Mid-depth,Tessellated Darter,Etheostoma olmstedi,JUV,1,0.996,0.996
+6/21/2019,CPS_6_20190621_03,Flood,Mid-depth,Tessellated Darter,Etheostoma olmstedi,Adult,1,0.996,0.996
+6/21/2019,CPS_6_20190621_03,Flood,Surface,Alewife,Alosa pseudoharengus,JUV,5,4.932,4.932
+6/21/2019,CPS_6_20190621_03,Flood,Surface,Atlantic Silverside,Menidia menidia,JUV,1,0.986,0.986
+3/3/2020,CPS_6_20200303_09,Flood,Bottom,Blue Crab,Callinectes sapidus,JUV,1,0.991,0.000
+3/3/2020,CPS_6_20200303_09,Flood,Bottom,Common Sunfishes,Lepomis spp.,JUV,2,1.981,0.000
+3/3/2020,CPS_6_20200303_21,Flood,Mid-depth,American Eel,Anguilla rostrata,JUV,2,1.932,1.932
+3/3/2020,CPS_6_20200303_21,Flood,Surface,American Eel,Anguilla rostrata,JUV,5,4.968,4.968
+3/3/2020,CPS_6_20200303_21,Flood,Surface,Atlantic Menhaden,Brevoortia tyrannus,JUV,1,0.994,0.994
+3/4/2020,CPS_6_20200304_04,Ebb,Mid-depth,American Eel,Anguilla rostrata,JUV,1,0.931,0.931
+3/17/2020,CPS_6_20200317_09,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,1,0.955,0.955
+3/17/2020,CPS_6_20200317_09,Flood,Bottom,Fingernail/Pea Clams,Pisidiidae,JUV,1,0.955,0.955
+3/17/2020,CPS_6_20200317_09,Flood,Surface,Herrings and Shad,Clupeidae,Egg,1,0.995,0.995
+3/17/2020,CPS_6_20200317_15,Ebb,Bottom,River Herrings,Alosa spp.,Egg,4,3.876,3.876
+3/17/2020,CPS_6_20200317_15,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,5,4.931,4.931
+3/17/2020,CPS_6_20200317_15,Ebb,Surface,Herrings and Shad,Clupeidae,Egg,1,0.995,0.995
+3/17/2020,CPS_6_20200317_15,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,3,2.986,2.986
+3/17/2020,CPS_6_20200317_21,Flood,Bottom,American Eel,Anguilla rostrata,JUV,1,0.988,0.988
+3/17/2020,CPS_6_20200317_21,Flood,Bottom,River Herrings,Alosa spp.,Egg,3,2.963,2.963
+3/17/2020,CPS_6_20200317_21,Flood,Mid-depth,American Eel,Anguilla rostrata,JUV,4,3.849,3.849
+3/17/2020,CPS_6_20200317_21,Flood,Mid-depth,River Herrings,Alosa spp.,Egg,5,4.812,4.812
+3/17/2020,CPS_6_20200317_21,Flood,Mid-depth,Asian Clam,Corbicula fluminea,JUV,1,0.962,0.962
+3/17/2020,CPS_6_20200317_21,Flood,Mid-depth,Herrings and Shad,Clupeidae,PYS,7,6.736,6.736
+3/17/2020,CPS_6_20200317_21,Flood,Surface,River Herrings,Alosa spp.,Egg,4,3.941,3.941
+3/17/2020,CPS_6_20200317_21,Flood,Surface,Herrings and Shad,Clupeidae,PYS,2,1.971,1.971
+3/18/2020,CPS_6_20200318_03,Ebb,Bottom,River Herrings,Alosa spp.,Egg,12,11.909,11.909
+3/18/2020,CPS_6_20200318_03,Ebb,Mid-depth,River Herrings,Alosa spp.,Egg,1,0.994,0.994
+3/18/2020,CPS_6_20200318_03,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,2,1.987,1.987
+3/18/2020,CPS_6_20200318_03,Ebb,Surface,River Herrings,Alosa spp.,Egg,4,3.956,3.956
+4/14/2020,CPS_6_20200414_10,Flood,Bottom,White Perch,Morone americana,Egg,92,91.969,91.969
+4/14/2020,CPS_6_20200414_10,Flood,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,632,631.790,631.790
+4/14/2020,CPS_6_20200414_10,Flood,Bottom,Fingernail/Pea Clams,Pisidiidae,JUV,6,5.998,5.998
+4/14/2020,CPS_6_20200414_10,Flood,Mid-depth,River Herrings,Alosa spp.,Egg,7,6.821,6.821
+4/14/2020,CPS_6_20200414_10,Flood,Mid-depth,White Perch,Morone americana,Egg,10,9.744,9.744
+4/14/2020,CPS_6_20200414_10,Flood,Mid-depth,Asian Clam,Corbicula fluminea,JUV,1,0.974,0.974
+4/14/2020,CPS_6_20200414_10,Flood,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,101,98.415,98.415
+4/14/2020,CPS_6_20200414_10,Flood,Mid-depth,Darters,Etheostoma spp.,PYS,3,2.923,2.923
+4/14/2020,CPS_6_20200414_10,Flood,Mid-depth,Carpsuckers,Carpiodes,PYS,1,0.974,0.974
+4/14/2020,CPS_6_20200414_10,Flood,Mid-depth,Fingernail/Pea Clams,Pisidiidae,JUV,1,0.974,0.974
+4/14/2020,CPS_6_20200414_10,Flood,Surface,White Perch,Morone americana,Egg,1,0.996,0.996
+4/14/2020,CPS_6_20200414_10,Flood,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,18,17.929,17.929
+4/14/2020,CPS_6_20200414_10,Flood,Surface,Darters,Etheostoma spp.,PYS,1,0.996,0.996
+4/14/2020,CPS_6_20200414_10,Flood,Surface,Carpsuckers,Carpiodes,YS,1,0.996,0.996
+4/14/2020,CPS_6_20200414_10,Flood,Surface,Carpsuckers,Carpiodes,PYS,1,0.996,0.996
+4/14/2020,CPS_6_20200414_15,Ebb,Bottom,River Herrings,Alosa spp.,Egg,240,239.793,239.793
+4/14/2020,CPS_6_20200414_15,Ebb,Bottom,White Perch,Morone americana,Egg,64,63.945,63.945
+4/14/2020,CPS_6_20200414_15,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,596,595.486,595.486
+4/14/2020,CPS_6_20200414_15,Ebb,Mid-depth,River Herrings,Alosa spp.,Egg,60,57.751,57.751
+4/14/2020,CPS_6_20200414_15,Ebb,Mid-depth,Unidentified Finfish,Unidentified,UIDL,1,0.963,0.963
+4/14/2020,CPS_6_20200414_15,Ebb,Mid-depth,White Perch,Morone americana,Egg,24,23.100,23.100
+4/14/2020,CPS_6_20200414_15,Ebb,Mid-depth,Yellow Perch,Perca flavescens,PYS,3,2.888,2.888
+4/14/2020,CPS_6_20200414_15,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,288,277.205,277.205
+4/14/2020,CPS_6_20200414_15,Ebb,Mid-depth,Darters,Etheostoma spp.,PYS,6,5.775,5.775
+4/14/2020,CPS_6_20200414_15,Ebb,Mid-depth,Carpsuckers,Carpiodes,PYS,3,2.888,2.888
+4/14/2020,CPS_6_20200414_15,Ebb,Mid-depth,Fingernail/Pea Clams,Pisidiidae,JUV,2,1.925,1.925
+4/14/2020,CPS_6_20200414_15,Ebb,Surface,American Eel,Anguilla rostrata,JUV,1,0.957,0.957
+4/14/2020,CPS_6_20200414_15,Ebb,Surface,River Herrings,Alosa spp.,Egg,74,70.459,70.459
+4/14/2020,CPS_6_20200414_15,Ebb,Surface,White Perch,Morone americana,Egg,16,15.317,15.317
+4/14/2020,CPS_6_20200414_15,Ebb,Surface,Yellow Perch,Perca flavescens,PYS,1,0.957,0.957
+4/14/2020,CPS_6_20200414_15,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,301,287.961,287.961
+4/14/2020,CPS_6_20200414_15,Ebb,Surface,Carpsuckers,Carpiodes,PYS,1,0.957,0.957
+4/14/2020,CPS_6_20200414_15,Ebb,Surface,Fingernail/Pea Clams,Pisidiidae,JUV,1,0.957,0.957
+4/14/2020,CPS_6_20200414_21,Flood,Bottom,River Herrings,Alosa spp.,Egg,1048,1037.833,1037.833
+4/14/2020,CPS_6_20200414_21,Flood,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,640,633.791,633.791
+4/14/2020,CPS_6_20200414_21,Flood,Mid-depth,River Herrings,Alosa spp.,Egg,144,138.612,138.612
+4/14/2020,CPS_6_20200414_21,Flood,Mid-depth,Spottail Shiner,Notropis hudsonius,Adult,7,6.738,3.901
+4/14/2020,CPS_6_20200414_21,Flood,Mid-depth,White Perch,Morone americana,Egg,12,11.551,11.551
+4/14/2020,CPS_6_20200414_21,Flood,Mid-depth,White Perch,Morone americana,JUV,1,0.963,0.160
+4/14/2020,CPS_6_20200414_21,Flood,Mid-depth,Yellow Perch,Perca flavescens,PYS,3,2.888,2.888
+4/14/2020,CPS_6_20200414_21,Flood,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,160,154.014,154.014
+4/14/2020,CPS_6_20200414_21,Flood,Mid-depth,Darters,Etheostoma spp.,PYS,4,3.850,3.850
+4/14/2020,CPS_6_20200414_21,Flood,Mid-depth,Darters,Etheostoma spp.,JUV,1,0.963,0.963
+4/14/2020,CPS_6_20200414_21,Flood,Mid-depth,Carpsuckers,Carpiodes,YS,3,2.888,2.888
+4/14/2020,CPS_6_20200414_21,Flood,Mid-depth,Carpsuckers,Carpiodes,PYS,4,3.850,3.850
+4/14/2020,CPS_6_20200414_21,Flood,Mid-depth,Fingernail/Pea Clams,Pisidiidae,JUV,1,0.963,0.963
+4/14/2020,CPS_6_20200414_21,Flood,Surface,River Herrings,Alosa spp.,Egg,190,187.193,187.193
+4/14/2020,CPS_6_20200414_21,Flood,Surface,Spottail Shiner,Notropis hudsonius,Adult,1,0.987,0.571
+4/14/2020,CPS_6_20200414_21,Flood,Surface,White Perch,Morone americana,Egg,14,13.532,13.532
+4/14/2020,CPS_6_20200414_21,Flood,Surface,Yellow Perch,Perca flavescens,YS,2,1.973,1.973
+4/14/2020,CPS_6_20200414_21,Flood,Surface,Yellow Perch,Perca flavescens,PYS,7,6.907,6.907
+4/14/2020,CPS_6_20200414_21,Flood,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,169,166.895,166.895
+4/14/2020,CPS_6_20200414_21,Flood,Surface,Darters,Etheostoma spp.,PYS,5,4.934,4.934
+4/14/2020,CPS_6_20200414_21,Flood,Surface,Carpsuckers,Carpiodes,YS,1,0.987,0.987
+4/14/2020,CPS_6_20200414_21,Flood,Surface,Carpsuckers,Carpiodes,PYS,2,1.973,1.973
+4/15/2020,CPS_6_20200415_03,Ebb,Bottom,Blue Crab,Callinectes sapidus,JUV,1,0.977,0.000
+4/15/2020,CPS_6_20200415_03,Ebb,Bottom,River Herrings,Alosa spp.,Egg,328,320.517,320.517
+4/15/2020,CPS_6_20200415_03,Ebb,Bottom,White Perch,Morone americana,Egg,32,31.270,31.270
+4/15/2020,CPS_6_20200415_03,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,1,0.977,0.977
+4/15/2020,CPS_6_20200415_03,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,552,539.406,539.406
+4/15/2020,CPS_6_20200415_03,Ebb,Mid-depth,River Herrings,Alosa spp.,Egg,88,83.940,83.940
+4/15/2020,CPS_6_20200415_03,Ebb,Mid-depth,Spottail Shiner,Notropis hudsonius,Adult,4,2.862,1.657
+4/15/2020,CPS_6_20200415_03,Ebb,Mid-depth,White Perch,Morone americana,Egg,4,3.815,3.815
+4/15/2020,CPS_6_20200415_03,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,134,127.818,127.818
+4/15/2020,CPS_6_20200415_03,Ebb,Surface,American Eel,Anguilla rostrata,JUV,1,0.925,0.925
+4/15/2020,CPS_6_20200415_03,Ebb,Surface,Minnow,Cyprinidae,PYS,1,0.925,0.925
+4/15/2020,CPS_6_20200415_03,Ebb,Surface,River Herrings,Alosa spp.,Egg,121,112.113,112.113
+4/15/2020,CPS_6_20200415_03,Ebb,Surface,Spottail Shiner,Notropis hudsonius,Adult,1,0.925,0.536
+4/15/2020,CPS_6_20200415_03,Ebb,Surface,White Perch,Morone americana,Egg,16,14.807,14.807
+4/15/2020,CPS_6_20200415_03,Ebb,Surface,Yellow Perch,Perca flavescens,PYS,1,0.925,0.925
+4/15/2020,CPS_6_20200415_03,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,162,150.189,150.189
+4/28/2020,CPS_6_20200428_09,Ebb,Bottom,River Herrings,Alosa spp.,Egg,8,7.999,7.999
+4/28/2020,CPS_6_20200428_09,Ebb,Bottom,White Perch,Morone americana,Egg,304,303.945,303.945
+4/28/2020,CPS_6_20200428_09,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,296,295.946,295.946
+4/28/2020,CPS_6_20200428_09,Ebb,Bottom,Herrings and Shad,Clupeidae,PYS,1,1.000,1.000
+4/28/2020,CPS_6_20200428_09,Ebb,Mid-depth,Minnow,Cyprinidae,PYS,2,1.970,1.970
+4/28/2020,CPS_6_20200428_09,Ebb,Mid-depth,River Herrings,Alosa spp.,Egg,14,13.506,13.506
+4/28/2020,CPS_6_20200428_09,Ebb,Mid-depth,River Herrings,Alosa spp.,YS,1,0.985,0.985
+4/28/2020,CPS_6_20200428_09,Ebb,Mid-depth,White Perch,Morone americana,Egg,62,60.776,60.776
+4/28/2020,CPS_6_20200428_09,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,158,155.317,155.317
+4/28/2020,CPS_6_20200428_09,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,19,18.711,18.711
+4/28/2020,CPS_6_20200428_09,Ebb,Surface,Minnow,Cyprinidae,YS,1,0.995,0.995
+4/28/2020,CPS_6_20200428_09,Ebb,Surface,Minnow,Cyprinidae,PYS,1,0.995,0.995
+4/28/2020,CPS_6_20200428_09,Ebb,Surface,River Herrings,Alosa spp.,Egg,5,5.307,5.307
+4/28/2020,CPS_6_20200428_09,Ebb,Surface,White Perch,Morone americana,Egg,29,29.188,29.188
+4/28/2020,CPS_6_20200428_09,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,116,115.424,115.424
+4/28/2020,CPS_6_20200428_09,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,9,8.955,8.955
+4/28/2020,CPS_6_20200428_15,Ebb,Bottom,White Perch,Morone americana,Egg,69,69.106,69.106
+4/28/2020,CPS_6_20200428_15,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,1,0.997,0.997
+4/28/2020,CPS_6_20200428_15,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,125,124.923,124.923
+4/28/2020,CPS_6_20200428_15,Ebb,Mid-depth,Minnow,Cyprinidae,YS,1,0.988,0.988
+4/28/2020,CPS_6_20200428_15,Ebb,Mid-depth,River Herrings,Alosa spp.,Egg,5,4.942,4.942
+4/28/2020,CPS_6_20200428_15,Ebb,Mid-depth,White Perch,Morone americana,Egg,24,23.724,23.724
+4/28/2020,CPS_6_20200428_15,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,38,37.562,37.562
+4/28/2020,CPS_6_20200428_15,Ebb,Mid-depth,Herrings and Shad,Clupeidae,PYS,2,1.977,1.977
+4/28/2020,CPS_6_20200428_15,Ebb,Surface,White Perch,Morone americana,Egg,63,62.537,62.537
+4/28/2020,CPS_6_20200428_15,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,17,16.875,16.875
+4/28/2020,CPS_6_20200428_20,Flood,Bottom,River Herrings,Alosa spp.,Egg,12,11.816,11.816
+4/28/2020,CPS_6_20200428_20,Flood,Bottom,White Perch,Morone americana,Egg,40,39.388,39.388
+4/28/2020,CPS_6_20200428_20,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,1,0.985,0.985
+4/28/2020,CPS_6_20200428_20,Flood,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,32,31.510,31.510
+4/28/2020,CPS_6_20200428_20,Flood,Mid-depth,River Herrings,Alosa spp.,Egg,19,18.269,18.269
+4/28/2020,CPS_6_20200428_20,Flood,Mid-depth,White Perch,Morone americana,Egg,19,18.269,18.269
+4/28/2020,CPS_6_20200428_20,Flood,Mid-depth,Asian Clam,Corbicula fluminea,JUV,1,0.962,0.962
+4/28/2020,CPS_6_20200428_20,Flood,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,32,30.769,30.769
+4/28/2020,CPS_6_20200428_20,Flood,Mid-depth,Darters,Etheostoma spp.,YS,1,0.962,0.962
+4/28/2020,CPS_6_20200428_20,Flood,Mid-depth,Herrings and Shad,Clupeidae,PYS,1,0.962,0.962
+4/28/2020,CPS_6_20200428_20,Flood,Surface,Bay Anchovy,Anchoa mitchilli,Adult,1,0.968,0.968
+4/28/2020,CPS_6_20200428_20,Flood,Surface,Minnow,Cyprinidae,YS,2,1.936,1.936
+4/28/2020,CPS_6_20200428_20,Flood,Surface,River Herrings,Alosa spp.,Egg,11,10.650,10.650
+4/28/2020,CPS_6_20200428_20,Flood,Surface,White Perch,Morone americana,Egg,9,8.713,8.713
+4/28/2020,CPS_6_20200428_20,Flood,Surface,Asian Clam,Corbicula fluminea,JUV,1,0.968,0.968
+4/28/2020,CPS_6_20200428_20,Flood,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,13,12.586,12.586
+4/28/2020,CPS_6_20200428_20,Flood,Surface,Herrings and Shad,Clupeidae,PYS,3,2.904,2.904
+4/29/2020,CPS_6_20200429_03,Ebb,Bottom,American Eel,Anguilla rostrata,JUV,1,0.999,0.999
+4/29/2020,CPS_6_20200429_03,Ebb,Bottom,River Herrings,Alosa spp.,Egg,8,7.989,7.989
+4/29/2020,CPS_6_20200429_03,Ebb,Bottom,White Perch,Morone americana,Egg,20,19.972,19.972
+4/29/2020,CPS_6_20200429_03,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,2,1.997,1.997
+4/29/2020,CPS_6_20200429_03,Ebb,Bottom,Gizzard Shad,Dorosoma cepedianum,Egg,52,51.928,51.928
+4/29/2020,CPS_6_20200429_03,Ebb,Bottom,Fingernail/Pea Clams,Pisidiidae,JUV,3,2.996,2.996
+4/29/2020,CPS_6_20200429_03,Ebb,Mid-depth,Minnow,Cyprinidae,PYS,1,0.977,0.977
+4/29/2020,CPS_6_20200429_03,Ebb,Mid-depth,River Herrings,Alosa spp.,Egg,11,10.748,10.748
+4/29/2020,CPS_6_20200429_03,Ebb,Mid-depth,Unidentified Finfish,Unidentified,UIDL,1,0.977,0.977
+4/29/2020,CPS_6_20200429_03,Ebb,Mid-depth,White Perch,Morone americana,Egg,8,7.817,7.817
+4/29/2020,CPS_6_20200429_03,Ebb,Mid-depth,Gizzard Shad,Dorosoma cepedianum,Egg,8,7.817,7.817
+4/29/2020,CPS_6_20200429_03,Ebb,Surface,River Herrings,Alosa spp.,Egg,19,18.932,18.932
+4/29/2020,CPS_6_20200429_03,Ebb,Surface,White Perch,Morone americana,Egg,4,3.986,3.986
+4/29/2020,CPS_6_20200429_03,Ebb,Surface,Gizzard Shad,Dorosoma cepedianum,Egg,2,1.993,1.993
+4/29/2020,CPS_6_20200429_03,Ebb,Surface,Herrings and Shad,Clupeidae,YS,1,0.996,0.996
+4/29/2020,CPS_6_20200429_03,Ebb,Surface,Herrings and Shad,Clupeidae,PYS,1,0.996,0.996
+4/29/2020,CPS_6_20200429_03,Ebb,Surface,Carpsuckers,Carpiodes,PYS,1,0.996,0.996
+9/1/2020,CPS_6_20200901_10,Ebb,Surface,Bay Anchovy,Anchoa mitchilli,JUV,2,1.931,1.931
+9/1/2020,CPS_6_20200901_21,Ebb,Bottom,Forktail Catfishes,Ictalurus sp.,PYS,1,0.976,0.976
+9/1/2020,CPS_6_20200901_21,Ebb,Surface,Alewife,Alosa pseudoharengus,JUV,1,0.960,0.960
+9/1/2020,CPS_6_20200901_21,Ebb,Surface,Asian Clam,Corbicula fluminea,JUV,1,0.960,0.960
+9/2/2020,CPS_6_20200902_03,Flood,Surface,Alewife,Alosa pseudoharengus,JUV,3,2.973,2.973
+9/2/2020,CPS_6_20200902_03,Flood,Surface,Spottail Shiner,Notropis hudsonius,Adult,2,1.982,1.147
+9/2/2020,CPS_6_20200902_03,Flood,Surface,Darters,Etheostoma spp.,JUV,1,0.991,0.991
+9/2/2020,CPS_6_20200902_03,Flood,Surface,Herrings and Shad,Clupeidae,JUV,1,0.991,0.991
+10/27/2020,CPS_6_20201027_10,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,6,5.944,5.944
+10/27/2020,CPS_6_20201027_10,Flood,Mid-depth,Asian Clam,Corbicula fluminea,JUV,4,3.899,3.899
+10/27/2020,CPS_6_20201027_10,Flood,Surface,Asian Clam,Corbicula fluminea,JUV,3,2.849,2.849
+10/27/2020,CPS_6_20201027_22,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,139,138.519,138.519
+10/27/2020,CPS_6_20201027_22,Flood,Mid-depth,Atlantic Croaker,Micropogonias undulatus,PYS,1,0.986,0.986
+10/27/2020,CPS_6_20201027_22,Flood,Mid-depth,Asian Clam,Corbicula fluminea,JUV,155,152.877,152.877
+10/27/2020,CPS_6_20201027_22,Flood,Mid-depth,Herrings and Shad,Clupeidae,JUV,1,0.986,0.986
+10/27/2020,CPS_6_20201027_22,Flood,Surface,Asian Clam,Corbicula fluminea,JUV,119,117.916,117.916
+10/28/2020,CPS_6_20201028_03,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,8,7.993,7.993
+10/28/2020,CPS_6_20201028_03,Ebb,Mid-depth,Asian Clam,Corbicula fluminea,JUV,5,4.729,4.729
+10/28/2020,CPS_6_20201028_03,Ebb,Surface,Asian Clam,Corbicula fluminea,JUV,4,3.950,3.950
+11/10/2020,CPS_6_20201110_09,Flood,Mid-depth,Asian Clam,Corbicula fluminea,JUV,3,2.969,2.969
+11/10/2020,CPS_6_20201110_09,Flood,Surface,Asian Clam,Corbicula fluminea,JUV,1,0.945,0.945
+11/10/2020,CPS_6_20201110_21,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,4,3.895,3.895
+11/10/2020,CPS_6_20201110_21,Flood,Mid-depth,Asian Clam,Corbicula fluminea,JUV,7,6.984,6.984
+11/10/2020,CPS_6_20201110_21,Flood,Surface,Asian Clam,Corbicula fluminea,JUV,6,5.979,5.979
+11/11/2020,CPS_6_20201111_03,Ebb,Surface,Asian Clam,Corbicula fluminea,JUV,1,0.995,0.995
+11/24/2020,CPS_6_20201124_14,Ebb,Mid-depth,Common Sunfishes,Lepomis spp.,JUV,1,0.994,0.000
+11/24/2020,CPS_6_20201124_21,Flood,Mid-depth,Asian Clam,Corbicula fluminea,JUV,1,0.997,0.997
+11/25/2020,CPS_6_20201125_03,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,2,1.893,1.893
+12/1/2020,CPS_6_20201201_14,Flood,Bottom,Asian Clam,Corbicula fluminea,JUV,2,1.935,1.935
+12/1/2020,CPS_6_20201201_14,Flood,Mid-depth,Asian Clam,Corbicula fluminea,JUV,2,1.997,1.997
+12/1/2020,CPS_6_20201201_21,Ebb,Bottom,Asian Clam,Corbicula fluminea,JUV,1,0.993,0.993
+12/15/2020,CPS_6_20201215_15,Flood,Mid-depth,Gizzard Shad,Dorosoma cepedianum,JUV,1,0.972,0.000
