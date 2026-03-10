@@ -1,1 +1,1 @@
-All supporting ata goes here.
+All supporting data goes here.
