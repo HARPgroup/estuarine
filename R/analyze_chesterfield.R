@@ -1,4 +1,5 @@
 library(lubridate)
+library(sqldf)
 # flows
 usgs_data <- dataRetrieval::readNWISuv(
   '02037500', parameterCd = '00060', 
@@ -53,6 +54,11 @@ pys_tidal_phase <- sqldf(
    group tidal_phase_start
   "
 )
+pys_flood <- sqldf("select * from pys_all where tidal_phase_start='Flood'")
+pys_ebb <- sqldf("select * from pys_all where tidal_phase_start='Ebb'")
+plot(pys_all$total_orgs ~ log(pys_all$flow), ylim=c(0,15000))
+plot(pys_flood$total_orgs ~ log(pys_flood$flow), ylim=c(0,15000))
+plot(pys_ebb$total_orgs ~ log(pys_ebb$flow), ylim=c(0,15000))
 
 pys_tidal_phase_mo <- sqldf(
   "select mo, tidal_phase_start, sum(density_org_numper100m3) as dper100, 
@@ -83,6 +89,41 @@ alosa_pys_all <- sqldf(
    )
   "
 )
+alosa_pys_day_pct <- sqldf(
+  "
+    select a.sample_date, a.yr, a.mo, a.da, a.hr, a.tidal_phase_start, a.flow,
+      a.total_orgs, b.daily_total_orgs, 
+      (a.total_orgs / b.daily_total_orgs) as pct_of_daily 
+    from alosa_pys_all as a
+    left outer join (
+      select yr, mo, da, cast(sum(total_orgs) as float) as daily_total_orgs
+      from alosa_pys_all 
+      group by yr, mo, da
+    ) as b 
+    on (
+      a.yr = b.yr and a.mo = b.mo and a.da = b.da
+    )
+    order by a.yr, a.mo, a.da, a.hr
+  "
+)
+alosa_pys_day_pct$sample_date <- as.Date(alosa_pys_day_pct$sample_date, format="%m/%d/%Y", tz = "UTC")
+
+plot(alosa_pys_day_pct[which(alosa_pys_day_pct$tidal_phase_start == 'Ebb'),]$pct_of_daily )
+points(alosa_pys_day_pct[which(alosa_pys_day_pct$tidal_phase_start == 'Flood'),]$pct_of_daily, col="blue",pch = 15 )
+barplot(
+  alosa_pys_day_pct[which(alosa_pys_day_pct$tidal_phase_start == 'Ebb'),]$pct_of_daily,
+  alosa_pys_day_pct[which(alosa_pys_day_pct$tidal_phase_start == 'Flood'),]$pct_of_daily
+)
+
+ggplot(data = alosa_pys_day_pct, aes(x = sample_date, y = pct_of_daily, fill = tidal_phase_start)) +
+  geom_col(position = "stack") +
+  labs(title = "Stacked Bar Chart by Day",
+       x = "Date",
+       y = "Total Value") +
+  scale_x_date(date_breaks = "1 year", date_labels = "%b %d") + # Format the date axis labels
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) # Rotate labels to prevent overlap
+
+
 alosa_pys_tidal_phase_yrmo <- sqldf(
   "select yr, mo, tidal_phase_start, sum(density_org_numper100m3) as dper100, 
    sum(density_nonimp_numper100m3) as niper100 
