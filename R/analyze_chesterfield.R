@@ -9,9 +9,10 @@ parameterCd <- "00060"   # Discharge
 startDate <- "2015-10-01"
 endDate <- "2023-10-05"
 
-# Retrieve hourly (unit value) data
-hourlyData <- dataRetrieval::readNWISuv(siteNumber, parameterCd, startDate, endDate)
-
+# Retrieve hourly (unit value) data and save to drive
+# hourlyData <- dataRetrieval::readNWISuv(siteNumber, parameterCd, startDate, endDate)
+# write.csv(hourlyData, "C:/usr/local/home/git/estuarine/data/usgs_02037500_2015-2023.csv")
+flow_file <- ""
 # Analyze chesterfield
 src_file <- paste0(github_location, "/vahydro/R/modeling/tidal_Fresh/particle2026/app_C_all.csv")
 imp_dat <- read.csv(src_file)
